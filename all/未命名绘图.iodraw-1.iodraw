@@ -56,11 +56,12 @@
           <mxGeometry x="70" y="939" width="10" height="61" as="geometry" />
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-165" value="请求流浪动物列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="SBz0XJte0IBJ5gc46Deu-232" target="SBz0XJte0IBJ5gc46Deu-141">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.035" y="-10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="1900" />
             </Array>
             <mxPoint x="128.83333333333348" y="1900" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-166" value="获取流浪动物列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="SBz0XJte0IBJ5gc46Deu-141" target="SBz0XJte0IBJ5gc46Deu-146">
@@ -214,7 +215,7 @@
           <mxGeometry x="110" y="1780" width="40" height="1440" as="geometry" />
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-233" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1835" width="60" height="40" as="geometry" />
+          <mxGeometry x="100" y="1840" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

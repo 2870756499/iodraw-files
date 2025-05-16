@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-168" value="展示流浪动物列表()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;" parent="1" edge="1">
-          <mxGeometry x="-0.0868" y="-13" relative="1" as="geometry">
+          <mxGeometry x="0.0486" y="-10" relative="1" as="geometry">
             <mxPoint x="308.8333333333335" y="2040" as="targetPoint" />
             <mxPoint x="521.5000000000005" y="2040" as="sourcePoint" />
             <mxPoint as="offset" />

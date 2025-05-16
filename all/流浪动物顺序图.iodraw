@@ -8,7 +8,7 @@
           <mxGeometry x="60" y="1192" width="150" height="1044" as="geometry" />
         </mxCell>
         <mxCell id="2E_0phYYdOwLw5THoSdY-122" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;fontSize=18;" parent="2E_0phYYdOwLw5THoSdY-121" vertex="1">
-          <mxGeometry x="70" y="107" width="10" height="832" as="geometry" />
+          <mxGeometry x="70" y="107" width="10" height="343" as="geometry" />
         </mxCell>
         <mxCell id="2E_0phYYdOwLw5THoSdY-123" value="流浪动物控制" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="545" y="1190" width="150" height="1044" as="geometry" />

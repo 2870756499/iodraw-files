@@ -206,7 +206,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-186" value="显示助养成功提示()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" source="SBz0XJte0IBJ5gc46Deu-144" edge="1" target="SBz0XJte0IBJ5gc46Deu-232">
-          <mxGeometry x="0.5278" y="1" relative="1" as="geometry">
+          <mxGeometry x="0.4918" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="335" y="2979" />
             </Array>

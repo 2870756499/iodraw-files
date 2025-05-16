@@ -13,11 +13,11 @@
         <mxCell id="SBz0XJte0IBJ5gc46Deu-141" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;fontColor=#B3B3B3;fillColor=#B3B3B3;" vertex="1" parent="SBz0XJte0IBJ5gc46Deu-140">
           <mxGeometry x="70" y="107" width="10" height="166" as="geometry" />
         </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-142" value="动物助养页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="SBz0XJte0IBJ5gc46Deu-142" value="动物助养页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="450" y="1780" width="100" height="1470" as="geometry" />
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-143" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;fillStyle=auto;fillColor=#B3B3B3;" vertex="1" parent="SBz0XJte0IBJ5gc46Deu-142">
-          <mxGeometry x="70" y="367" width="10" height="270" as="geometry" />
+          <mxGeometry x="45" y="367" width="10" height="270" as="geometry" />
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-144" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" vertex="1" parent="SBz0XJte0IBJ5gc46Deu-142">
           <mxGeometry x="45" y="830" width="10" height="374" as="geometry" />

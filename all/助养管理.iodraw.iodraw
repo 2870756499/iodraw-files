@@ -14,7 +14,7 @@
           <mxGeometry x="325" y="390" width="150" height="1878" as="geometry" />
         </mxCell>
         <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-4" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="3ojl-ZEdNO9U3Iy7Nn-c-3">
-          <mxGeometry x="70" y="107" width="10" height="563" as="geometry" />
+          <mxGeometry x="70" y="107" width="10" height="413" as="geometry" />
         </mxCell>
         <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-5" value="动物助养控制" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="598" y="390" width="150" height="1878" as="geometry" />
@@ -108,11 +108,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-31" value="返回信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3ojl-ZEdNO9U3Iy7Nn-c-5" target="3ojl-ZEdNO9U3Iy7Nn-c-4">
+        <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-31" value="返回信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="548" y="1017" />
+              <mxPoint x="548" y="850" />
             </Array>
+            <mxPoint x="672.5" y="850" as="sourcePoint" />
+            <mxPoint x="405" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

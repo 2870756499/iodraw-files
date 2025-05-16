@@ -1,0 +1,178 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="GA-hiwUfZvrtgvHPAK0d">
+    <mxGraphModel dx="1434" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KTT982zREVZlSm4ZOF8I-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="KTT982zREVZlSm4ZOF8I-1" target="KTT982zREVZlSm4ZOF8I-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="KTT982zREVZlSm4ZOF8I-1" target="KTT982zREVZlSm4ZOF8I-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="560" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="KTT982zREVZlSm4ZOF8I-2" target="KTT982zREVZlSm4ZOF8I-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-2" value="系统首页" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="KTT982zREVZlSm4ZOF8I-4" target="KTT982zREVZlSm4ZOF8I-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="KTT982zREVZlSm4ZOF8I-4" target="KTT982zREVZlSm4ZOF8I-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-4" value="动物领养界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="KTT982zREVZlSm4ZOF8I-5" target="KTT982zREVZlSm4ZOF8I-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-5" value="流浪动物控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-6" value="动物领养控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="KTT982zREVZlSm4ZOF8I-7" target="KTT982zREVZlSm4ZOF8I-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-7" value="动物" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="413" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-8" value="领养记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-55" value="登陆()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="45" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.02;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="KTT982zREVZlSm4ZOF8I-55" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="106" y="540" as="sourcePoint" />
+            <mxPoint x="110" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-62" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="310" as="sourcePoint" />
+            <mxPoint x="310" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-63" value="请求流浪动物列表()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="205" y="280" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-65" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="450" as="sourcePoint" />
+            <mxPoint x="385" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-66" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="418" y="380" as="sourcePoint" />
+            <mxPoint x="418" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-67" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="300" as="sourcePoint" />
+            <mxPoint x="660" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-68" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="340" as="sourcePoint" />
+            <mxPoint x="570" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-69" value="展示动物列表()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="430" y="380" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-70" value="展示动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="430" y="400" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-71" value="选择流浪动物()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="285" y="380" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-77" value="点击领养()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="285" y="402" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-78" value="显示领养成功消息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="425" y="420" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-79" value="获取动物列表()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="570" y="260" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-80" value="返回动物列表()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="570" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-86" value="获取动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="570" y="242" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-87" value="返回动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="570" y="372" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-101" value="返回动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="235" y="670" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-105" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="272" as="sourcePoint" />
+            <mxPoint x="410" y="202" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-106" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="443" y="202" as="sourcePoint" />
+            <mxPoint x="443" y="272" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-112" value="创建领养记录()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="310" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-113" value="领养成功()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="450" y="212" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-115" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="555" y="518" as="sourcePoint" />
+            <mxPoint x="645" y="518" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-116" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="655" y="558" as="sourcePoint" />
+            <mxPoint x="555" y="558" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-119" value="获取动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="555" y="490" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-120" value="返回动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="555" y="570" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-122" value="创建领养记录()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="620" y="590" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-123" value="返回领养记录()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="750" y="590" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-124" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="713" y="640" as="sourcePoint" />
+            <mxPoint x="713" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-125" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="746" y="570" as="sourcePoint" />
+            <mxPoint x="746" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

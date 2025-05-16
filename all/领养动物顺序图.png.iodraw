@@ -238,7 +238,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-39" value="展示动物列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-24" target="nUW587sMHEia9qj9hEUQ-22">
+        <mxCell id="nUW587sMHEia9qj9hEUQ-39" value="展示动物列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-24" target="nUW587sMHEia9qj9hEUQ-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="317" y="3383" />

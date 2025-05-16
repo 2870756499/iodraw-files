@@ -299,10 +299,10 @@
             <mxPoint x="1433" y="3720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-47" value="返回领养记录()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-34">
+        <mxCell id="nUW587sMHEia9qj9hEUQ-47" value="返回领养记录()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
           <mxGeometry x="0.0016" relative="1" as="geometry">
-            <mxPoint x="1437.75" y="3769" as="sourcePoint" />
-            <mxPoint x="1036.25" y="3750" as="targetPoint" />
+            <mxPoint x="1437.13" y="3760" as="sourcePoint" />
+            <mxPoint x="1036.88" y="3760" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>

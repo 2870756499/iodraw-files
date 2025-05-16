@@ -28,6 +28,12 @@
         <mxCell id="eysye3wJ2LZ5MWN7P2nP-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eysye3wJ2LZ5MWN7P2nP-42" target="eysye3wJ2LZ5MWN7P2nP-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eysye3wJ2LZ5MWN7P2nP-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eysye3wJ2LZ5MWN7P2nP-42" target="eysye3wJ2LZ5MWN7P2nP-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eysye3wJ2LZ5MWN7P2nP-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eysye3wJ2LZ5MWN7P2nP-42" target="eysye3wJ2LZ5MWN7P2nP-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eysye3wJ2LZ5MWN7P2nP-42" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="250" width="30" height="60" as="geometry" />
         </mxCell>

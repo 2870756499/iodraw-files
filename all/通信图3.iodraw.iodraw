@@ -7,7 +7,7 @@
         <mxCell id="GalNU3vihgCRiJwimw_--91" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="GalNU3vihgCRiJwimw_--89" target="GalNU3vihgCRiJwimw_--90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o5Hv3uoLztaaf233v5Tt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GalNU3vihgCRiJwimw_--89" target="o5Hv3uoLztaaf233v5Tt-4">
+        <mxCell id="o5Hv3uoLztaaf233v5Tt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o5Hv3uoLztaaf233v5Tt-27" target="o5Hv3uoLztaaf233v5Tt-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="145" y="440" />
@@ -113,6 +113,16 @@
         </mxCell>
         <mxCell id="o5Hv3uoLztaaf233v5Tt-26" value="完成审核信息，点击提交()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="398" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o5Hv3uoLztaaf233v5Tt-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GalNU3vihgCRiJwimw_--89" target="o5Hv3uoLztaaf233v5Tt-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="350" as="sourcePoint" />
+            <mxPoint x="430" y="520" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o5Hv3uoLztaaf233v5Tt-27" value="提示审核成功()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="438" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

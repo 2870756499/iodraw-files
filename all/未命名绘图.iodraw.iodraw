@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2E_0phYYdOwLw5THoSdY-89" value="```mermaid&#xa;sequenceDiagram&#xa;    participant User&#xa;&#xa;    User-&gt;Home: 打开首页&#xa;    activate Home&#xa;    Home-&gt;StrayAnimalControl: 请求流浪动物列表&#xa;    activate StrayAnimalControl&#xa;    StrayAnimalControl-&gt;Animal: 获取流浪动物列表&#xa;    activate Animal&#xa;    Animal--&gt;StrayAnimalControl: 返回流浪动物列表&#xa;    deactivate Animal&#xa;    StrayAnimalControl--&gt;Home: 返回流浪动物列表&#xa;    deactivate StrayAnimalControl&#xa;    Home--&gt;User: 展示流浪动物列表&#xa;    deactivate Home&#xa;    User-&gt;AdoptionPage: 选择动物&#xa;    activate AdoptionPage&#xa;    AdoptionPage-&gt;StrayAnimalControl: 请求动物信息&#xa;    activate StrayAnimalControl&#xa;    StrayAnimalControl-&gt;Animal: 获取动物信息&#xa;    activate Animal&#xa;    Animal--&gt;StrayAnimalControl: 返回动物信息&#xa;    deactivate Animal&#xa;    StrayAnimalControl--&gt;AdoptionPage: 返回动物信息&#xa;    deactivate StrayAnimalControl&#xa;    AdoptionPage--&gt;User: 展示动物信息&#xa;    deactivate AdoptionPage&#xa;    User-&gt;AdoptionPage: 点击领养&#xa;    activate AdoptionPage&#xa;    AdoptionPage-&gt;AdoptionControl: 发起领养请求&#xa;    activate AdoptionControl&#xa;    AdoptionControl-&gt;AdoptionRecord: 生成领养记录&#xa;    activate AdoptionRecord&#xa;    AdoptionRecord--&gt;AdoptionControl: 返回领养记录&#xa;    deactivate AdoptionRecord&#xa;    AdoptionControl--&gt;AdoptionPage: 确认领养成功&#xa;    deactivate AdoptionControl&#xa;    AdoptionPage--&gt;User: 展示领养成功&#xa;    deactivate AdoptionPage&#xa;    &#xa;```" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry width="310" height="630" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

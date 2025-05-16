@@ -23,7 +23,7 @@
           <mxGeometry x="165" y="240" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o5Hv3uoLztaaf233v5Tt-2" value="动物领养控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o5Hv3uoLztaaf233v5Tt-3" value="动物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="720" width="120" height="60" as="geometry" />

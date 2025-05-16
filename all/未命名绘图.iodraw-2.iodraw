@@ -164,7 +164,7 @@
           <mxGeometry x="685" y="100" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eysye3wJ2LZ5MWN7P2nP-85" value="删除动物信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="180" width="100" height="40" as="geometry" />
+          <mxGeometry x="560" y="190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eysye3wJ2LZ5MWN7P2nP-86" value="审核留言" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="320" width="100" height="40" as="geometry" />
@@ -176,10 +176,10 @@
           <mxGeometry x="700" y="420" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eysye3wJ2LZ5MWN7P2nP-89" value="编辑用户收藏" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="530" width="100" height="40" as="geometry" />
+          <mxGeometry x="660" y="580" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eysye3wJ2LZ5MWN7P2nP-90" value="审核领养请求" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="600" width="100" height="40" as="geometry" />
+          <mxGeometry x="700" y="620" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eysye3wJ2LZ5MWN7P2nP-122" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eysye3wJ2LZ5MWN7P2nP-41" target="eysye3wJ2LZ5MWN7P2nP-97">
           <mxGeometry relative="1" as="geometry" />
@@ -200,7 +200,7 @@
           <mxGeometry x="560" y="480" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eysye3wJ2LZ5MWN7P2nP-96" value="查看用户资料" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="540" width="100" height="40" as="geometry" />
+          <mxGeometry x="540" y="560" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eysye3wJ2LZ5MWN7P2nP-97" value="修改用户资料" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="15" width="100" height="40" as="geometry" />
@@ -209,7 +209,7 @@
           <mxGeometry x="785" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eysye3wJ2LZ5MWN7P2nP-99" value="新增用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="785" y="210" width="100" height="40" as="geometry" />
+          <mxGeometry x="660" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eysye3wJ2LZ5MWN7P2nP-100" value="修改动物近况" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="270" width="100" height="40" as="geometry" />

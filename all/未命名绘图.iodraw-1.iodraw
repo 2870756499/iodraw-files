@@ -282,14 +282,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-194" value="退出系统" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="SBz0XJte0IBJ5gc46Deu-155">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1634" y="3609" />
-            </Array>
-            <mxPoint x="1724.5" y="3609" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-195" value="重新登录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="SBz0XJte0IBJ5gc46Deu-155" target="SBz0XJte0IBJ5gc46Deu-140">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">

@@ -22,11 +22,6 @@
         <mxCell id="KTT982zREVZlSm4ZOF8I-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="KTT982zREVZlSm4ZOF8I-4" target="KTT982zREVZlSm4ZOF8I-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PXipuFAK4fxnIF9zSTj--2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KTT982zREVZlSm4ZOF8I-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-4" value="流浪动物管理界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="290" width="120" height="60" as="geometry" />
         </mxCell>
@@ -37,17 +32,6 @@
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-5" value="流浪动物控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PXipuFAK4fxnIF9zSTj--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.04;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KTT982zREVZlSm4ZOF8I-120">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="530" as="targetPoint" />
-            <mxPoint x="490" y="650" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-114" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.617;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" parent="1" target="KTT982zREVZlSm4ZOF8I-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="555" y="488.96623496762254" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-55" value="登陆()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="420" width="60" height="30" as="geometry" />
@@ -73,12 +57,6 @@
             <mxPoint x="385" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-66" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="418" y="380" as="sourcePoint" />
-            <mxPoint x="418" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-67" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="300" as="sourcePoint" />
@@ -91,20 +69,11 @@
             <mxPoint x="570" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-69" value="展示动物详情()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="430" y="380" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-70" value="显示助养界面()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="430" y="400" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-71" value="选择流浪动物()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="285" y="380" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-77" value="选择动物()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="285" y="402" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-78" value="显示助养&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E9%80%89%E6%8B%A9%E5%8A%A8%E7%89%A9()%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22285%22%20y%3D%22402%22%20width%3D%2280%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;成功消息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="415" y="420" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-79" value="获取流浪动物列表()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="555" y="260" width="130" height="30" as="geometry" />
@@ -117,39 +86,6 @@
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-87" value="返回流浪动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="555" y="372" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-105" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="590" as="sourcePoint" />
-            <mxPoint x="420" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-106" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="443" y="520" as="sourcePoint" />
-            <mxPoint x="443" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-115" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="555" y="458" as="sourcePoint" />
-            <mxPoint x="645" y="458" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-116" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="655" y="498" as="sourcePoint" />
-            <mxPoint x="555" y="498" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-119" value="获取动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="555" y="430" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-120" value="返回动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="555" y="510" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-122" value="创建领养记录()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="620" y="530" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-123" value="返回领养记录()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="750" y="530" width="100" height="30" as="geometry" />
@@ -171,51 +107,6 @@
         </mxCell>
         <mxCell id="PXipuFAK4fxnIF9zSTj--3" value="保存助养信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="540" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PXipuFAK4fxnIF9zSTj--4" value="返回成功消息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="540" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PXipuFAK4fxnIF9zSTj--7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="620" as="sourcePoint" />
-            <mxPoint x="540" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PXipuFAK4fxnIF9zSTj--8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="573" y="550" as="sourcePoint" />
-            <mxPoint x="573" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PXipuFAK4fxnIF9zSTj--9" value="更新动物状态()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="455" y="585" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PXipuFAK4fxnIF9zSTj--10" value="更新成功()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="578" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PXipuFAK4fxnIF9zSTj--11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.975;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="659.5012345679013" as="sourcePoint" />
-            <mxPoint x="487" y="657.98" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PXipuFAK4fxnIF9zSTj--12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="643" as="sourcePoint" />
-            <mxPoint x="650" y="643" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PXipuFAK4fxnIF9zSTj--13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="683" as="sourcePoint" />
-            <mxPoint x="560" y="683" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PXipuFAK4fxnIF9zSTj--14" value="创建助养记录()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="615" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PXipuFAK4fxnIF9zSTj--15" value="记录成功创建()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="693" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

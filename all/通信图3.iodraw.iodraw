@@ -182,6 +182,9 @@
         <mxCell id="o5Hv3uoLztaaf233v5Tt-49" value="审核记录生成()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="568" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="o5Hv3uoLztaaf233v5Tt-50" value="更新成功()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="588" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -7,7 +7,7 @@
         <mxCell id="KTT982zREVZlSm4ZOF8I-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KTT982zREVZlSm4ZOF8I-1" target="KTT982zREVZlSm4ZOF8I-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KTT982zREVZlSm4ZOF8I-1" target="KTT982zREVZlSm4ZOF8I-4">
+        <mxCell id="KTT982zREVZlSm4ZOF8I-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="KTT982zREVZlSm4ZOF8I-1" target="KTT982zREVZlSm4ZOF8I-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -25,7 +25,7 @@
         <mxCell id="KTT982zREVZlSm4ZOF8I-4" value="动物领养界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTT982zREVZlSm4ZOF8I-5" target="KTT982zREVZlSm4ZOF8I-6">
+        <mxCell id="KTT982zREVZlSm4ZOF8I-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KTT982zREVZlSm4ZOF8I-5" target="KTT982zREVZlSm4ZOF8I-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-5" value="流浪动物控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -62,6 +62,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="490" as="sourcePoint" />
             <mxPoint x="330" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-66" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="260" as="sourcePoint" />
+            <mxPoint x="460" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

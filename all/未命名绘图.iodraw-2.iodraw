@@ -69,14 +69,14 @@
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-67" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="310" as="sourcePoint" />
-            <mxPoint x="580" y="310" as="targetPoint" />
+            <mxPoint x="540" y="410" as="sourcePoint" />
+            <mxPoint x="610" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-68" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="490" as="sourcePoint" />
-            <mxPoint x="500" y="440" as="targetPoint" />
+            <mxPoint x="520" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-69" value="展示动物列表()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">

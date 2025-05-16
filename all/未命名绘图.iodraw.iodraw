@@ -138,10 +138,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2E_0phYYdOwLw5THoSdY-146" value="创建领养记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-128" target="2E_0phYYdOwLw5THoSdY-132">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.4103" y="23" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1231" y="1973" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2E_0phYYdOwLw5THoSdY-147" value="返回领养记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-131" target="2E_0phYYdOwLw5THoSdY-128">

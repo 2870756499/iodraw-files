@@ -250,11 +250,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-191" value="审核处理成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-162" target="Sj6CbrZaiBdFN8Kit7LV-158">
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-191" value="审核处理成功()" style="verticalAlign=bottom;elbow=vertical;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="546" y="3348" />
-            </Array>
+            <mxPoint x="654" y="3170" as="sourcePoint" />
+            <mxPoint x="419" y="3222" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

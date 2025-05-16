@@ -16,6 +16,18 @@
         <mxCell id="eysye3wJ2LZ5MWN7P2nP-104" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eysye3wJ2LZ5MWN7P2nP-41" target="eysye3wJ2LZ5MWN7P2nP-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eysye3wJ2LZ5MWN7P2nP-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eysye3wJ2LZ5MWN7P2nP-41" target="eysye3wJ2LZ5MWN7P2nP-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eysye3wJ2LZ5MWN7P2nP-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eysye3wJ2LZ5MWN7P2nP-41" target="eysye3wJ2LZ5MWN7P2nP-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eysye3wJ2LZ5MWN7P2nP-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eysye3wJ2LZ5MWN7P2nP-41" target="eysye3wJ2LZ5MWN7P2nP-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eysye3wJ2LZ5MWN7P2nP-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eysye3wJ2LZ5MWN7P2nP-41" target="eysye3wJ2LZ5MWN7P2nP-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eysye3wJ2LZ5MWN7P2nP-41" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="980" y="300" width="30" height="60" as="geometry" />
         </mxCell>

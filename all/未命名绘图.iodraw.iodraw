@@ -116,7 +116,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-143" value="展示动物信息" style="verticalAlign=bottom;edgeStyle=isometricEdgeStyle;elbow=vertical;rounded=0;endArrow=block;entryX=0.59;entryY=0.549;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-130" target="2E_0phYYdOwLw5THoSdY-150">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-143" value="展示动物信息" style="verticalAlign=bottom;edgeStyle=isometricEdgeStyle;elbow=vertical;rounded=0;endArrow=block;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-130" target="2E_0phYYdOwLw5THoSdY-150">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="144.32352941176487" y="1817" as="targetPoint" />
           </mxGeometry>

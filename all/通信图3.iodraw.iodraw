@@ -97,8 +97,8 @@
         <mxCell id="o5Hv3uoLztaaf233v5Tt-22" value="删除动物领养信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="448" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o5Hv3uoLztaaf233v5Tt-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="655" y="438" width="50" height="30" as="geometry" />
+        <mxCell id="o5Hv3uoLztaaf233v5Tt-23" value="更新成功()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="438" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

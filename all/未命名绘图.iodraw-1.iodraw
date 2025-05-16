@@ -26,7 +26,7 @@
           <mxGeometry x="650" y="1780" width="100" height="1480" as="geometry" />
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-146" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;fillColor=#B3B3B3;" vertex="1" parent="SBz0XJte0IBJ5gc46Deu-145">
-          <mxGeometry x="70" y="159" width="10" height="52" as="geometry" />
+          <mxGeometry x="45" y="159" width="10" height="52" as="geometry" />
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-147" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;fillColor=#B3B3B3;" vertex="1" parent="SBz0XJte0IBJ5gc46Deu-145">
           <mxGeometry x="70" y="419" width="10" height="156" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="830" y="1780" width="170" height="1490" as="geometry" />
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-149" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" vertex="1" parent="SBz0XJte0IBJ5gc46Deu-148">
-          <mxGeometry x="70" y="887" width="10" height="260" as="geometry" />
+          <mxGeometry x="80" y="887" width="10" height="260" as="geometry" />
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-150" value="动物" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="1050" y="1780" width="150" height="1500" as="geometry" />

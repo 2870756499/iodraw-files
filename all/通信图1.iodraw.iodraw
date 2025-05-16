@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="250" y="560" width="30" height="60" as="geometry" />
+          <mxGeometry x="250" y="500" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="KTT982zREVZlSm4ZOF8I-2" target="KTT982zREVZlSm4ZOF8I-4" edge="1">
           <mxGeometry relative="1" as="geometry" />

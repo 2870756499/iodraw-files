@@ -182,7 +182,7 @@
           <mxGeometry x="338" y="3120" width="150" height="888" as="geometry" />
         </mxCell>
         <mxCell id="nUW587sMHEia9qj9hEUQ-24" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="nUW587sMHEia9qj9hEUQ-23">
-          <mxGeometry x="70" y="107" width="10" height="166" as="geometry" />
+          <mxGeometry x="70" y="107" width="10" height="73" as="geometry" />
         </mxCell>
         <mxCell id="nUW587sMHEia9qj9hEUQ-25" value="动物领养界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="538" y="3120" width="150" height="888" as="geometry" />

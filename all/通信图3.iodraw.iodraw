@@ -64,8 +64,8 @@
         <mxCell id="o5Hv3uoLztaaf233v5Tt-12" value="提示成功()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="340" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o5Hv3uoLztaaf233v5Tt-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="495" y="258" width="50" height="30" as="geometry" />
+        <mxCell id="o5Hv3uoLztaaf233v5Tt-13" value="请求展示动物领养信息列表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="258" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

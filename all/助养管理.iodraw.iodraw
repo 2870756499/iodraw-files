@@ -20,7 +20,7 @@
           <mxGeometry x="598" y="390" width="150" height="1878" as="geometry" />
         </mxCell>
         <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-6" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="3ojl-ZEdNO9U3Iy7Nn-c-5">
-          <mxGeometry x="70" y="159" width="10" height="146" as="geometry" />
+          <mxGeometry x="70" y="159" width="10" height="161" as="geometry" />
         </mxCell>
         <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-7" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="3ojl-ZEdNO9U3Iy7Nn-c-5">
           <mxGeometry x="70" y="471" width="10" height="146" as="geometry" />
@@ -85,7 +85,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-28" value="请求编辑动物助养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3ojl-ZEdNO9U3Iy7Nn-c-4" target="3ojl-ZEdNO9U3Iy7Nn-c-7">
+        <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-28" value="保存信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3ojl-ZEdNO9U3Iy7Nn-c-4" target="3ojl-ZEdNO9U3Iy7Nn-c-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="547" y="861" />
@@ -106,7 +106,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-31" value="返回编辑动物助养信息页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3ojl-ZEdNO9U3Iy7Nn-c-5" target="3ojl-ZEdNO9U3Iy7Nn-c-4">
+        <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-31" value="返回编辑动物助养信息页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3ojl-ZEdNO9U3Iy7Nn-c-5" target="3ojl-ZEdNO9U3Iy7Nn-c-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="548" y="1017" />

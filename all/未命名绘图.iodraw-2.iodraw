@@ -171,6 +171,9 @@
         <mxCell id="GalNU3vihgCRiJwimw_--138" value="展示所有流浪动物列表()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-115" y="538" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GalNU3vihgCRiJwimw_--139" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="468" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

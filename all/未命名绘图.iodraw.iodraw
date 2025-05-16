@@ -163,12 +163,6 @@
         <mxCell id="2E_0phYYdOwLw5THoSdY-117" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=60;" vertex="1" parent="1">
           <mxGeometry x="70" y="20" width="40" height="1140" as="geometry" />
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-119" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1190" width="150" height="1044" as="geometry" />
-        </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-120" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="2E_0phYYdOwLw5THoSdY-119">
-          <mxGeometry x="70" width="10" as="geometry" />
-        </mxCell>
         <mxCell id="2E_0phYYdOwLw5THoSdY-121" value="系统首页" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="345" y="1190" width="150" height="1044" as="geometry" />
         </mxCell>
@@ -205,11 +199,12 @@
         <mxCell id="2E_0phYYdOwLw5THoSdY-132" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="2E_0phYYdOwLw5THoSdY-131">
           <mxGeometry x="70" y="783" width="10" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-133" value="用户触发&quot;用户动物领养&quot;功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-119" target="2E_0phYYdOwLw5THoSdY-122">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-133" value="用户触发&quot;用户动物领养&quot;功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="2E_0phYYdOwLw5THoSdY-122">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="293" y="1297" />
             </Array>
+            <mxPoint x="144.32352941176487" y="1297" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2E_0phYYdOwLw5THoSdY-134" value="请求流浪动物列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-122" target="2E_0phYYdOwLw5THoSdY-124">
@@ -226,18 +221,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-136" value="展示流浪动物列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-122" target="2E_0phYYdOwLw5THoSdY-119">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-136" value="展示流浪动物列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-122">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="294" y="1453" />
             </Array>
+            <mxPoint x="144.32352941176487" y="1452.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-137" value="选择动物" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-119" target="2E_0phYYdOwLw5THoSdY-122">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-137" value="选择动物" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="2E_0phYYdOwLw5THoSdY-122">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="291" y="1505" />
             </Array>
+            <mxPoint x="144.32352941176487" y="1505" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2E_0phYYdOwLw5THoSdY-138" value="获取动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-122" target="2E_0phYYdOwLw5THoSdY-123">
@@ -275,18 +272,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-143" value="展示动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-130" target="2E_0phYYdOwLw5THoSdY-119">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-143" value="展示动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-130">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="694" y="1817" />
             </Array>
+            <mxPoint x="144.32352941176487" y="1817" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-144" value="点击领养" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-119" target="2E_0phYYdOwLw5THoSdY-130">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-144" value="点击领养" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="2E_0phYYdOwLw5THoSdY-130">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="691" y="1869" />
             </Array>
+            <mxPoint x="144.32352941176487" y="1869" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2E_0phYYdOwLw5THoSdY-145" value="请求生成领养记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-130" target="2E_0phYYdOwLw5THoSdY-128">
@@ -317,15 +316,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-149" value="显示领养结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-129" target="2E_0phYYdOwLw5THoSdY-119">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-149" value="显示领养结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-129">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="694" y="2129" />
             </Array>
+            <mxPoint x="144.32352941176487" y="2129" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2E_0phYYdOwLw5THoSdY-150" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=60;" vertex="1" parent="1">
-          <mxGeometry x="80" y="30" width="40" height="1140" as="geometry" />
+          <mxGeometry x="100" y="980" width="40" height="1140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

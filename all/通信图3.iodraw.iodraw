@@ -161,26 +161,23 @@
         <mxCell id="o5Hv3uoLztaaf233v5Tt-41" value="展示审核表单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="478" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o5Hv3uoLztaaf233v5Tt-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="o5Hv3uoLztaaf233v5Tt-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o5Hv3uoLztaaf233v5Tt-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="330" as="sourcePoint" />
-            <mxPoint x="580" y="330" as="targetPoint" />
+            <mxPoint x="475" y="540" as="sourcePoint" />
+            <mxPoint x="575" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o5Hv3uoLztaaf233v5Tt-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="320" as="sourcePoint" />
-            <mxPoint x="570" y="320" as="targetPoint" />
+            <mxPoint x="495" y="530" as="sourcePoint" />
+            <mxPoint x="565" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o5Hv3uoLztaaf233v5Tt-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="350" as="sourcePoint" />
-            <mxPoint x="500" y="350" as="targetPoint" />
+            <mxPoint x="575" y="560" as="sourcePoint" />
+            <mxPoint x="495" y="560" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="o5Hv3uoLztaaf233v5Tt-46" value="请求展示动物领养信息列表()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="250" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

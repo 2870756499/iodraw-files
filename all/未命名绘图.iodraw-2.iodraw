@@ -7,11 +7,6 @@
         <mxCell id="KTT982zREVZlSm4ZOF8I-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTT982zREVZlSm4ZOF8I-1" target="KTT982zREVZlSm4ZOF8I-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-54" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KTT982zREVZlSm4ZOF8I-53">
-          <mxGeometry x="0.5714" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="560" width="30" height="60" as="geometry" />
         </mxCell>

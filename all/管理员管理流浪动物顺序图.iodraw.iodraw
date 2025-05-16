@@ -310,8 +310,8 @@
             <mxPoint x="466" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rD6I-H6UYiL5Ia7I8qkt-2" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="-50" width="25" height="1890" as="geometry" />
+        <mxCell id="rD6I-H6UYiL5Ia7I8qkt-2" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=70;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="-40" width="42" height="1890" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

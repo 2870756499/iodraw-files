@@ -64,10 +64,10 @@
             <mxPoint x="305" y="1910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-166" value="获取流浪动物列表()" style="verticalAlign=bottom;elbow=horizontal;rounded=0;endArrow=block;fontSize=20;" parent="1" target="SBz0XJte0IBJ5gc46Deu-145" edge="1">
+        <mxCell id="SBz0XJte0IBJ5gc46Deu-166" value="获取流浪动物列表()" style="verticalAlign=bottom;elbow=horizontal;rounded=0;endArrow=block;fontSize=20;" parent="1" target="SBz0XJte0IBJ5gc46Deu-146" edge="1">
           <mxGeometry x="0.009" relative="1" as="geometry">
-            <mxPoint x="510" y="2010" as="sourcePoint" />
-            <mxPoint x="695" y="2010" as="targetPoint" />
+            <mxPoint x="525" y="2030" as="sourcePoint" />
+            <mxPoint x="751.5000000000005" y="2030" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>

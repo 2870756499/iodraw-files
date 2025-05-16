@@ -214,6 +214,9 @@
         <mxCell id="nUW587sMHEia9qj9hEUQ-54" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;" vertex="1" parent="nUW587sMHEia9qj9hEUQ-33">
           <mxGeometry x="70" y="168.5" width="10" height="61.5" as="geometry" />
         </mxCell>
+        <mxCell id="nUW587sMHEia9qj9hEUQ-62" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;" vertex="1" parent="nUW587sMHEia9qj9hEUQ-33">
+          <mxGeometry x="63" y="357.5" width="10" height="61.5" as="geometry" />
+        </mxCell>
         <mxCell id="nUW587sMHEia9qj9hEUQ-34" value="领养记录" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="1362" y="3120" width="150" height="888" as="geometry" />
         </mxCell>
@@ -336,9 +339,6 @@
             <mxPoint x="845" y="3290.0000000000005" as="sourcePoint" />
             <mxPoint x="1235" y="3290.0000000000005" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-62" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="1252" y="3308.5" width="10" height="61.5" as="geometry" />
         </mxCell>
         <mxCell id="nUW587sMHEia9qj9hEUQ-63" value="返回动物信息()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">

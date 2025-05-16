@@ -217,11 +217,8 @@
             <mxPoint x="272.5" y="185.09" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-56" value="返回动物信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="nUW587sMHEia9qj9hEUQ-31">
+        <mxCell id="nUW587sMHEia9qj9hEUQ-56" value="返回动物信息()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="nUW587sMHEia9qj9hEUQ-31" target="nUW587sMHEia9qj9hEUQ-29">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="179" y="220" />
-            </Array>
             <mxPoint x="-119.99647058823518" y="225.40999999999985" as="targetPoint" />
             <mxPoint x="270" y="220" as="sourcePoint" />
           </mxGeometry>

@@ -98,7 +98,7 @@
             <mxPoint x="668" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-29" value="查询动物助养信息()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-29" value="保存信息()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry x="0.0043" relative="1" as="geometry">
             <mxPoint x="678" y="800" as="sourcePoint" />
             <mxPoint x="909" y="800" as="targetPoint" />

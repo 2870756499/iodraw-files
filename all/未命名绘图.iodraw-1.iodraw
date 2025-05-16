@@ -31,15 +31,6 @@
         <mxCell id="rFkusXNm_rjcYYrYgrQa-81" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="rFkusXNm_rjcYYrYgrQa-73">
           <mxGeometry x="311" y="739" width="10" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-102" value="修改动物领养信息, 点击提交()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="rFkusXNm_rjcYYrYgrQa-73" target="rFkusXNm_rjcYYrYgrQa-70">
-          <mxGeometry x="-0.0017" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-359" y="670" />
-            </Array>
-            <mxPoint x="-510.92857142857156" y="670" as="sourcePoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-104" value="更新动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="rFkusXNm_rjcYYrYgrQa-73" source="rFkusXNm_rjcYYrYgrQa-76">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -415,6 +406,15 @@
             <Array as="points">
               <mxPoint x="1225.93" y="1740" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-102" value="修改动物领养信息, 点击提交()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-135" target="rFkusXNm_rjcYYrYgrQa-70">
+          <mxGeometry x="-0.0017" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="231" y="720" />
+            </Array>
+            <mxPoint x="79.07142857142844" y="720" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

@@ -77,7 +77,7 @@
           <mxGeometry x="1246" y="50" width="150" height="2240" as="geometry" />
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-89" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="rFkusXNm_rjcYYrYgrQa-88">
-          <mxGeometry x="75" y="1823" width="10" height="220" as="geometry" />
+          <mxGeometry x="75" y="1823" width="10" height="267" as="geometry" />
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-131" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="rFkusXNm_rjcYYrYgrQa-88">
           <mxGeometry x="70" y="1610" width="10" height="110" as="geometry" />

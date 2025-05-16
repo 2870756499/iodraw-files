@@ -34,6 +34,11 @@
         <mxCell id="KTT982zREVZlSm4ZOF8I-5" value="流浪动物控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PXipuFAK4fxnIF9zSTj--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.04;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KTT982zREVZlSm4ZOF8I-6" target="KTT982zREVZlSm4ZOF8I-120">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-6" value="动物助养控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="620" width="120" height="60" as="geometry" />
         </mxCell>

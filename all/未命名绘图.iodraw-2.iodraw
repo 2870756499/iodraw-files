@@ -72,11 +72,8 @@
             <mxPoint x="315" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GalNU3vihgCRiJwimw_--106" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="330" as="sourcePoint" />
-            <mxPoint x="290" y="330" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="GalNU3vihgCRiJwimw_--107" value="流浪动物管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

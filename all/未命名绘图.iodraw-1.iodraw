@@ -1,12 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="2449" dy="1263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-66" value="管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=20;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="20" y="60" width="150" height="2230" as="geometry" />
-        </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-67" value="动物领养管理界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="301" y="50" width="150" height="2240" as="geometry" />
         </mxCell>
@@ -82,11 +79,12 @@
         <mxCell id="rFkusXNm_rjcYYrYgrQa-131" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="rFkusXNm_rjcYYrYgrQa-88">
           <mxGeometry x="70" y="1610" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-90" value="点击动物领养管理()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-66" target="rFkusXNm_rjcYYrYgrQa-68">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-90" value="点击动物领养管理()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" target="rFkusXNm_rjcYYrYgrQa-68">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="246" y="157" />
             </Array>
+            <mxPoint x="94.07142857142844" y="157" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-91" value="请求展示所有动物领养信息列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-68" target="rFkusXNm_rjcYYrYgrQa-74">
@@ -117,18 +115,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-95" value="展示动物领养信息列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-68" target="rFkusXNm_rjcYYrYgrQa-66">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-95" value="展示动物领养信息列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-68">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="247" y="417" />
             </Array>
+            <mxPoint x="94.07142857142844" y="417" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-96" value="选择动物领养信息, 点击编辑()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-66" target="rFkusXNm_rjcYYrYgrQa-69">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-96" value="选择动物领养信息, 点击编辑()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" target="rFkusXNm_rjcYYrYgrQa-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="246" y="469" />
             </Array>
+            <mxPoint x="94.07142857142844" y="469" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-97" value="请求编辑动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-69" target="rFkusXNm_rjcYYrYgrQa-75">
@@ -159,18 +159,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-101" value="展示编辑动物领养信息页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-69" target="rFkusXNm_rjcYYrYgrQa-66">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-101" value="展示编辑动物领养信息页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="247" y="729" />
             </Array>
+            <mxPoint x="94.07142857142844" y="729" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-102" value="修改动物领养信息, 点击提交()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-66" target="rFkusXNm_rjcYYrYgrQa-70">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-102" value="修改动物领养信息, 点击提交()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" target="rFkusXNm_rjcYYrYgrQa-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="246" y="781" />
             </Array>
+            <mxPoint x="94.07142857142844" y="781" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-103" value="请求修改动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-70" target="rFkusXNm_rjcYYrYgrQa-76">
@@ -201,18 +203,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-107" value="提示修改成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-70" target="rFkusXNm_rjcYYrYgrQa-66">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-107" value="提示修改成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="247" y="1041" />
             </Array>
+            <mxPoint x="94.07142857142844" y="1041" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-108" value="选择动物领养信息, 点击删除()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-66" target="rFkusXNm_rjcYYrYgrQa-71">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-108" value="选择动物领养信息, 点击删除()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" target="rFkusXNm_rjcYYrYgrQa-71">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="246" y="1093" />
             </Array>
+            <mxPoint x="94.07142857142844" y="1093" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-109" value="请求删除动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-71" target="rFkusXNm_rjcYYrYgrQa-73">
@@ -229,18 +233,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-111" value="展示删除确认页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-71" target="rFkusXNm_rjcYYrYgrQa-66">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-111" value="展示删除确认页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-71">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="247" y="1249" />
             </Array>
+            <mxPoint x="94.07142857142844" y="1249" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-112" value="点击确定()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-66" target="rFkusXNm_rjcYYrYgrQa-72">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-112" value="点击确定()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" target="rFkusXNm_rjcYYrYgrQa-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="246" y="1301" />
             </Array>
+            <mxPoint x="94.07142857142844" y="1301" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-113" value="请求确认删除()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-72" target="rFkusXNm_rjcYYrYgrQa-77">
@@ -271,18 +277,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-117" value="提示删除成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-67" target="rFkusXNm_rjcYYrYgrQa-66">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-117" value="提示删除成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="247" y="1561" />
             </Array>
+            <mxPoint x="94.07142857142844" y="1561" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-118" value="选择动物领养信息, 点击审核()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-66" target="rFkusXNm_rjcYYrYgrQa-67">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-118" value="选择动物领养信息, 点击审核()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" target="rFkusXNm_rjcYYrYgrQa-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="246" y="1613" />
             </Array>
+            <mxPoint x="94.07142857142844" y="1613" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-119" value="请求审核()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-67" target="rFkusXNm_rjcYYrYgrQa-88">
@@ -299,18 +307,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-121" value="展示审核表单()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-85" target="rFkusXNm_rjcYYrYgrQa-66">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-121" value="展示审核表单()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-85">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="620" y="1769" />
             </Array>
+            <mxPoint x="94.07142857142844" y="1769.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-122" value="完善审核信息, 点击提交()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-66" target="rFkusXNm_rjcYYrYgrQa-87">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-122" value="完善审核信息, 点击提交()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" target="rFkusXNm_rjcYYrYgrQa-87">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="619" y="1821" />
             </Array>
+            <mxPoint x="94.07142857142844" y="1821" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-123" value="提交审核()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-87" target="rFkusXNm_rjcYYrYgrQa-89">
@@ -355,18 +365,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-129" value="提示审核成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-85" target="rFkusXNm_rjcYYrYgrQa-66">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-129" value="提示审核成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-85">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="620" y="2185" />
             </Array>
+            <mxPoint x="94.07142857142844" y="2185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-132" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="390" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-135" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="132" width="20" height="2158" as="geometry" />
+          <mxGeometry x="80" y="50" width="20" height="2158" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

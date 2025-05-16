@@ -14,7 +14,7 @@
           <mxGeometry x="55" y="310" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-142" value="动物助养页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#FFFFFF;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1780" width="116" height="1470" as="geometry" />
+          <mxGeometry x="460" y="1780" width="124" height="1470" as="geometry" />
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-143" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;fillStyle=auto;fillColor=#B3B3B3;" vertex="1" parent="SBz0XJte0IBJ5gc46Deu-142">
           <mxGeometry x="45" y="367" width="10" height="270" as="geometry" />

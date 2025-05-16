@@ -57,7 +57,9 @@
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-165" value="请求流浪动物列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="SBz0XJte0IBJ5gc46Deu-139" target="SBz0XJte0IBJ5gc46Deu-141">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="260" y="1900" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-166" value="获取流浪动物列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="SBz0XJte0IBJ5gc46Deu-141" target="SBz0XJte0IBJ5gc46Deu-146">
@@ -81,7 +83,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-169" value="选择动物" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="SBz0XJte0IBJ5gc46Deu-155" target="SBz0XJte0IBJ5gc46Deu-140">
+        <mxCell id="SBz0XJte0IBJ5gc46Deu-169" value="选择动物" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="SBz0XJte0IBJ5gc46Deu-139" target="SBz0XJte0IBJ5gc46Deu-140">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="937" y="2095" />

@@ -108,11 +108,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-94" value="返回动物领养信息列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-73" target="rFkusXNm_rjcYYrYgrQa-68">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-94" value="返回动物领养信息列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="365" />
+              <mxPoint x="540" y="340" />
             </Array>
+            <mxPoint x="679.5000000000005" y="340" as="sourcePoint" />
+            <mxPoint x="381" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-95" value="展示动物领养信息列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-68">

@@ -226,6 +226,16 @@
             <mxPoint x="750" y="2030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KwpzIcZeaqGnrWnrXlpA-1" value="展示动物详情()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1">
+          <mxGeometry x="-0.1587" y="-37" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="345" y="2417" />
+            </Array>
+            <mxPoint x="130" y="2417" as="targetPoint" />
+            <mxPoint x="527" y="2417" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

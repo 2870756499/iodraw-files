@@ -90,6 +90,9 @@
         <mxCell id="tZdSFtZ-BejQVJ9a7vD9-2" value="获取助养信息列表()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="455" y="245" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tZdSFtZ-BejQVJ9a7vD9-3" value="返回信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

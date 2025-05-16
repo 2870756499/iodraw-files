@@ -144,7 +144,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-178" value="完善助养信息" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1">
+        <mxCell id="SBz0XJte0IBJ5gc46Deu-178" value="完善助养信息" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="SBz0XJte0IBJ5gc46Deu-139" target="SBz0XJte0IBJ5gc46Deu-142">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="128.83333333333348" y="2570" as="sourcePoint" />
             <mxPoint x="499.5" y="2570" as="targetPoint" />

@@ -7,16 +7,6 @@
         <mxCell id="GalNU3vihgCRiJwimw_--91" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="GalNU3vihgCRiJwimw_--89" target="GalNU3vihgCRiJwimw_--90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o5Hv3uoLztaaf233v5Tt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="145" y="348" as="sourcePoint" />
-            <mxPoint x="430" y="518" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="145" y="438" />
-              <mxPoint x="430" y="438" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--89" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="290" width="30" height="60" as="geometry" />
         </mxCell>
@@ -34,11 +24,6 @@
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--93" value="点击动物领养管理()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="165" y="240" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o5Hv3uoLztaaf233v5Tt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="o5Hv3uoLztaaf233v5Tt-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="520" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="o5Hv3uoLztaaf233v5Tt-2" value="动物领养控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="290" width="120" height="60" as="geometry" />
@@ -75,6 +60,35 @@
         </mxCell>
         <mxCell id="o5Hv3uoLztaaf233v5Tt-14" value="请求编辑，删除，修改流浪动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="410" y="270" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lc_qsb9SPG2Nz4T2cS0g-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="Lc_qsb9SPG2Nz4T2cS0g-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lc_qsb9SPG2Nz4T2cS0g-2" value="动物领养控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lc_qsb9SPG2Nz4T2cS0g-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="320" as="sourcePoint" />
+            <mxPoint x="570" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lc_qsb9SPG2Nz4T2cS0g-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="350" as="sourcePoint" />
+            <mxPoint x="500" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lc_qsb9SPG2Nz4T2cS0g-5" value="提示成功()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lc_qsb9SPG2Nz4T2cS0g-6" value="请求展示动物领养信息列表()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="250" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lc_qsb9SPG2Nz4T2cS0g-7" value="请求编辑，删除，修改流浪动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="280" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

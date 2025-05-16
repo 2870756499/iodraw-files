@@ -85,6 +85,9 @@
             <mxPoint x="650" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="o5Hv3uoLztaaf233v5Tt-18" value="获取所有动物领养信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="408" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -35,7 +35,7 @@
           <mxGeometry x="1145" y="1190" width="150" height="1044" as="geometry" />
         </mxCell>
         <mxCell id="2E_0phYYdOwLw5THoSdY-130" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#999999;fontSize=18;" parent="2E_0phYYdOwLw5THoSdY-129" vertex="1">
-          <mxGeometry x="70" y="575" width="10" height="375" as="geometry" />
+          <mxGeometry x="70" y="100" width="10" height="850" as="geometry" />
         </mxCell>
         <mxCell id="2E_0phYYdOwLw5THoSdY-131" value="领养记录" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1345" y="1190" width="150" height="1044" as="geometry" />

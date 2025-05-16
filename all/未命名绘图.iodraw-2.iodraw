@@ -26,7 +26,7 @@
           <mxGeometry x="70" y="305" width="10" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Sj6CbrZaiBdFN8Kit7LV-162" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="Sj6CbrZaiBdFN8Kit7LV-159">
-          <mxGeometry x="60" y="1017" width="10" height="156" as="geometry" />
+          <mxGeometry x="70" y="960" width="10" height="156" as="geometry" />
         </mxCell>
         <mxCell id="Sj6CbrZaiBdFN8Kit7LV-163" value="动物助养记录" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="868" y="2180" width="150" height="1512" as="geometry" />
@@ -234,11 +234,13 @@
             <mxPoint x="124.5" y="3244" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-188" value="请求审核动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-158" target="Sj6CbrZaiBdFN8Kit7LV-162">
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-188" value="请求审核动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="545" y="3192" />
+              <mxPoint x="545" y="3170" />
             </Array>
+            <mxPoint x="419" y="3170" as="sourcePoint" />
+            <mxPoint x="649" y="3170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sj6CbrZaiBdFN8Kit7LV-189" value="修改领养状态并生成审核记录()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-162" target="Sj6CbrZaiBdFN8Kit7LV-166">

@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2E_0phYYdOwLw5THoSdY-134" value="请求流浪动物列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-122" target="2E_0phYYdOwLw5THoSdY-124" edge="1">
-          <mxGeometry x="0.2211" relative="1" as="geometry">
+          <mxGeometry x="0.3053" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="531" y="1349" />
             </Array>
@@ -82,10 +82,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2E_0phYYdOwLw5THoSdY-138" value="获取动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-122" target="2E_0phYYdOwLw5THoSdY-123" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.3347" y="7" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="531" y="1557" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2E_0phYYdOwLw5THoSdY-139" value="获取动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-123" target="2E_0phYYdOwLw5THoSdY-126" edge="1">
@@ -103,10 +104,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2E_0phYYdOwLw5THoSdY-141" value="返回动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-123" target="2E_0phYYdOwLw5THoSdY-122" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.2513" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="534" y="1713" />
             </Array>
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2E_0phYYdOwLw5THoSdY-142" value="展示动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-122" target="2E_0phYYdOwLw5THoSdY-130" edge="1">

@@ -168,7 +168,7 @@
             <mxPoint x="649" y="2510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-173" value="修改动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-173" value="修改动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="Sj6CbrZaiBdFN8Kit7LV-164">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="810" y="2520" />
@@ -255,7 +255,7 @@
         <mxCell id="Sj6CbrZaiBdFN8Kit7LV-193" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
           <mxGeometry x="939" y="2280" width="10" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-194" value="修改动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-194" value="修改动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="Sj6CbrZaiBdFN8Kit7LV-193">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="811" y="2300" />

@@ -138,8 +138,8 @@
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-178" value="完善助养信息()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;" parent="1" edge="1">
           <mxGeometry x="-0.5398" relative="1" as="geometry">
-            <mxPoint x="118.83333333333348" y="2550" as="sourcePoint" />
-            <mxPoint x="515" y="2550" as="targetPoint" />
+            <mxPoint x="118.83333333333348" y="2600" as="sourcePoint" />
+            <mxPoint x="515" y="2600" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>

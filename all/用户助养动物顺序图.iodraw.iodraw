@@ -71,11 +71,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-167" value="返回流浪动物列表()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;entryX=0.5;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="SBz0XJte0IBJ5gc46Deu-145" target="KBj1n3p4Hrzd20rAkTDd-4" edge="1">
-          <mxGeometry x="0.3089" y="40" relative="1" as="geometry">
-            <mxPoint x="704.17" y="1959.9999999999998" as="sourcePoint" />
-            <mxPoint x="530.0033333333334" y="1960" as="targetPoint" />
-            <mxPoint as="offset" />
+        <mxCell id="SBz0XJte0IBJ5gc46Deu-167" value="返回流浪动物列表()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;entryX=0.5;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="751.5000000000005" y="2020" as="sourcePoint" />
+            <mxPoint x="520" y="2020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-168" value="展示流浪动物列表()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;" parent="1" edge="1">
@@ -151,7 +150,7 @@
             <mxPoint x="128.83333333333348" y="2511" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-178" value="完善助养信息()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;" parent="1" edge="1">
+        <mxCell id="SBz0XJte0IBJ5gc46Deu-178" value="完善助养信息()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;" parent="1" target="SBz0XJte0IBJ5gc46Deu-198" edge="1">
           <mxGeometry x="0.0017" relative="1" as="geometry">
             <mxPoint x="118.83333333333348" y="2550" as="sourcePoint" />
             <mxPoint x="511.50000000000045" y="2550" as="targetPoint" />

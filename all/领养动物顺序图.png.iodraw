@@ -257,7 +257,7 @@
             <mxPoint x="608" y="3460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-41" value="获取动物信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=20;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-26" target="nUW587sMHEia9qj9hEUQ-30">
+        <mxCell id="nUW587sMHEia9qj9hEUQ-41" value="获取动物信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;fontSize=20;endFill=1;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-26" target="nUW587sMHEia9qj9hEUQ-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="737" y="3487" />

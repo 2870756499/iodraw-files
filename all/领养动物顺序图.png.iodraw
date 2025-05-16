@@ -215,7 +215,7 @@
           <mxGeometry x="1362" y="3120" width="150" height="888" as="geometry" />
         </mxCell>
         <mxCell id="nUW587sMHEia9qj9hEUQ-35" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;" vertex="1" parent="nUW587sMHEia9qj9hEUQ-34">
-          <mxGeometry x="70" y="627" width="10" height="42" as="geometry" />
+          <mxGeometry x="70" y="627" width="10" height="53" as="geometry" />
         </mxCell>
         <mxCell id="nUW587sMHEia9qj9hEUQ-36" value="请求流浪动物列表()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1" target="nUW587sMHEia9qj9hEUQ-25">
           <mxGeometry relative="1" as="geometry">
@@ -259,7 +259,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-42" value="返回动物信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-30" target="nUW587sMHEia9qj9hEUQ-26">
+        <mxCell id="nUW587sMHEia9qj9hEUQ-42" value="返回动物信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-30" target="nUW587sMHEia9qj9hEUQ-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="735" y="3539" />
@@ -295,7 +295,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-47" value="返回领养记录()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-34" target="nUW587sMHEia9qj9hEUQ-32">
+        <mxCell id="nUW587sMHEia9qj9hEUQ-47" value="返回领养记录()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-34" target="nUW587sMHEia9qj9hEUQ-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1247" y="3799" />

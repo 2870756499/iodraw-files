@@ -25,11 +25,14 @@
         <mxCell id="GalNU3vihgCRiJwimw_--93" value="点击动物领养管理()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="165" y="240" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="o5Hv3uoLztaaf233v5Tt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o5Hv3uoLztaaf233v5Tt-2" target="o5Hv3uoLztaaf233v5Tt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o5Hv3uoLztaaf233v5Tt-2" value="动物领养控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o5Hv3uoLztaaf233v5Tt-3" value="动物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o5Hv3uoLztaaf233v5Tt-4" value="审核界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="530" width="120" height="60" as="geometry" />

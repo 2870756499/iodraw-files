@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" scale="1" border="0" version="24.7.17">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="1434" dy="84" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,15 +175,6 @@
         <mxCell id="2E_0phYYdOwLw5THoSdY-153" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="130" y="1245" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-21" value="显示领养申请结果()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="417" y="2991" />
-            </Array>
-            <mxPoint x="604.5" y="2991" as="sourcePoint" />
-            <mxPoint x="147" y="2991" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nUW587sMHEia9qj9hEUQ-22" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="130" y="3120" width="150" height="888" as="geometry" />
         </mxCell>
@@ -226,7 +217,7 @@
         <mxCell id="nUW587sMHEia9qj9hEUQ-35" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="nUW587sMHEia9qj9hEUQ-34">
           <mxGeometry x="70" y="627" width="10" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-36" value="请求流浪动物列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-22" target="nUW587sMHEia9qj9hEUQ-24">
+        <mxCell id="nUW587sMHEia9qj9hEUQ-36" value="请求流浪动物列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-22" target="nUW587sMHEia9qj9hEUQ-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="319" y="3227" />

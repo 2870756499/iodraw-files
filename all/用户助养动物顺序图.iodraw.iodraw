@@ -102,24 +102,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-171" value="获取所选动物详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" source="SBz0XJte0IBJ5gc46Deu-143" target="SBz0XJte0IBJ5gc46Deu-147" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.2556" y="19" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="636" y="2199" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-172" value="获取动物详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" source="SBz0XJte0IBJ5gc46Deu-147" target="SBz0XJte0IBJ5gc46Deu-151" edge="1">
+        <mxCell id="SBz0XJte0IBJ5gc46Deu-172" value="获取动物详情()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" source="SBz0XJte0IBJ5gc46Deu-147" target="SBz0XJte0IBJ5gc46Deu-151" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="936" y="2251" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-173" value="返回动物详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" source="SBz0XJte0IBJ5gc46Deu-150" target="SBz0XJte0IBJ5gc46Deu-147" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="SBz0XJte0IBJ5gc46Deu-173" value="返回动物详情()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" source="SBz0XJte0IBJ5gc46Deu-150" target="SBz0XJte0IBJ5gc46Deu-147" edge="1">
+          <mxGeometry x="-0.002" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="937" y="2303" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-174" value="返回动物详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" source="SBz0XJte0IBJ5gc46Deu-147" target="SBz0XJte0IBJ5gc46Deu-143" edge="1">
@@ -191,7 +193,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-184" value="更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" source="SBz0XJte0IBJ5gc46Deu-150" target="SBz0XJte0IBJ5gc46Deu-149" edge="1">
+        <mxCell id="SBz0XJte0IBJ5gc46Deu-184" value="更新成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" source="SBz0XJte0IBJ5gc46Deu-150" target="SBz0XJte0IBJ5gc46Deu-149" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1037" y="2875" />

@@ -206,7 +206,7 @@
           <mxGeometry x="960" y="3120" width="150" height="888" as="geometry" />
         </mxCell>
         <mxCell id="nUW587sMHEia9qj9hEUQ-32" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;" vertex="1" parent="nUW587sMHEia9qj9hEUQ-31">
-          <mxGeometry x="63" y="570" width="10" height="156" as="geometry" />
+          <mxGeometry x="70" y="570" width="10" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nUW587sMHEia9qj9hEUQ-33" value="动物" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="1162" y="3120" width="150" height="888" as="geometry" />
@@ -280,11 +280,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-45" value="创建领养记录()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-27" target="nUW587sMHEia9qj9hEUQ-32">
+        <mxCell id="nUW587sMHEia9qj9hEUQ-45" value="创建领养记录()" style="verticalAlign=bottom;elbow=horizontal;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-27" target="nUW587sMHEia9qj9hEUQ-32">
           <mxGeometry x="0.0003" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="837" y="3695" />
-            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>

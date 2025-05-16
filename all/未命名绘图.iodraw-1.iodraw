@@ -306,6 +306,15 @@
         <mxCell id="OuuB-311lwypd1mnnK1K-146" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="OuuB-311lwypd1mnnK1K-145">
           <mxGeometry x="70" y="107" width="10" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="OuuB-311lwypd1mnnK1K-148" value="登陆()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="272" y="137" />
+            </Array>
+            <mxPoint x="134" y="137" as="sourcePoint" />
+            <mxPoint x="300" y="137" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -101,12 +101,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-171" value="获取所选动物详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" source="SBz0XJte0IBJ5gc46Deu-143" target="SBz0XJte0IBJ5gc46Deu-147" edge="1">
-          <mxGeometry x="0.2556" y="19" relative="1" as="geometry">
+        <mxCell id="SBz0XJte0IBJ5gc46Deu-171" value="获取所选动物详情()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" source="SBz0XJte0IBJ5gc46Deu-143" target="SBz0XJte0IBJ5gc46Deu-147" edge="1">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="636" y="2199" />
             </Array>
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-172" value="获取动物详情()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" source="SBz0XJte0IBJ5gc46Deu-147" target="SBz0XJte0IBJ5gc46Deu-151" edge="1">

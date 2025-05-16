@@ -376,11 +376,11 @@
         <mxCell id="rFkusXNm_rjcYYrYgrQa-132" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="390" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-135" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=80;" vertex="1" parent="1">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-135" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=60;" vertex="1" parent="1">
           <mxGeometry x="70" y="50" width="43" height="2158" as="geometry" />
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-136" value="管理员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="128" width="60" height="30" as="geometry" />
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-136" value="管理员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="40" y="123" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

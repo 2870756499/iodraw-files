@@ -153,19 +153,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OuuB-311lwypd1mnnK1K-124" value="保存流浪动物信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="OuuB-311lwypd1mnnK1K-106" target="OuuB-311lwypd1mnnK1K-109">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1018" y="699" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="OuuB-311lwypd1mnnK1K-124" value="保存流浪动物信息()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="OuuB-311lwypd1mnnK1K-106" target="OuuB-311lwypd1mnnK1K-109">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OuuB-311lwypd1mnnK1K-125" value="保存成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="OuuB-311lwypd1mnnK1K-107" target="OuuB-311lwypd1mnnK1K-106">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1019" y="751" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="OuuB-311lwypd1mnnK1K-125" value="保存成功()" style="verticalAlign=bottom;elbow=vertical;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="OuuB-311lwypd1mnnK1K-107" target="OuuB-311lwypd1mnnK1K-106">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OuuB-311lwypd1mnnK1K-126" value="新增成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="OuuB-311lwypd1mnnK1K-106" target="OuuB-311lwypd1mnnK1K-93">
           <mxGeometry relative="1" as="geometry">

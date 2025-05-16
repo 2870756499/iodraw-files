@@ -1,0 +1,277 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
+    <mxGraphModel dx="1434" dy="-1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-150" value="管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="50" y="2180" width="150" height="1512" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-151" value="动物助养管理界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="339" y="2180" width="150" height="1512" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-152" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-151" vertex="1">
+          <mxGeometry x="70" y="107" width="10" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-153" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-151" vertex="1">
+          <mxGeometry x="70" y="211" width="10" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-154" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-151" vertex="1">
+          <mxGeometry x="70" y="315" width="10" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-159" value="动物助养控制" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="579" y="2180" width="150" height="1512" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-160" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-159" vertex="1">
+          <mxGeometry x="70" y="305" width="10" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-163" value="动物助养记录" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="868" y="2180" width="150" height="1512" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-164" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" vertex="1">
+          <mxGeometry x="70" y="320" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-155" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" vertex="1">
+          <mxGeometry x="-459" y="440" width="10" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-156" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" vertex="1">
+          <mxGeometry x="-459" y="544" width="10" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-161" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" vertex="1">
+          <mxGeometry x="-219" y="596" width="10" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-165" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" vertex="1">
+          <mxGeometry x="70" y="640" width="10" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-177" value="选择动物领养信息并点击删除()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" target="Sj6CbrZaiBdFN8Kit7LV-155" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-590" y="440" />
+            </Array>
+            <mxPoint x="-743.5" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-178" value="展示删除确认页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" source="Sj6CbrZaiBdFN8Kit7LV-155" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-589" y="492" />
+            </Array>
+            <mxPoint x="-743.5" y="492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-179" value="点击确定删除()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" target="Sj6CbrZaiBdFN8Kit7LV-156" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-590" y="544" />
+            </Array>
+            <mxPoint x="-743.5" y="544" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-180" value="请求删除动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" source="Sj6CbrZaiBdFN8Kit7LV-156" target="Sj6CbrZaiBdFN8Kit7LV-161" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-323" y="596" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-181" value="删除动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" target="Sj6CbrZaiBdFN8Kit7LV-165" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-59" y="640" />
+            </Array>
+            <mxPoint x="-209" y="640" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-182" value="删除成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-58" y="692" />
+            </Array>
+            <mxPoint x="74.5" y="692" as="sourcePoint" />
+            <mxPoint x="-209" y="692" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-162" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" vertex="1">
+          <mxGeometry x="-219" y="874" width="10" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-157" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" vertex="1">
+          <mxGeometry x="-459" y="770" width="10" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-158" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" vertex="1">
+          <mxGeometry x="-459" y="874" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-166" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" vertex="1">
+          <mxGeometry x="70" y="894" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-185" value="选择动物领养信息并点击审核()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" target="Sj6CbrZaiBdFN8Kit7LV-157" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-590" y="770" />
+            </Array>
+            <mxPoint x="-743.5" y="770" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-186" value="展示审核表单()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" source="Sj6CbrZaiBdFN8Kit7LV-157" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-589" y="822" />
+            </Array>
+            <mxPoint x="-743.5" y="822" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-187" value="完善审核信息并点击提交()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" target="Sj6CbrZaiBdFN8Kit7LV-158" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-590" y="874" />
+            </Array>
+            <mxPoint x="-743.5" y="874" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-192" value="显示审核成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-589" y="978" />
+            </Array>
+            <mxPoint x="-459" y="978" as="sourcePoint" />
+            <mxPoint x="-743.5" y="978" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-188" value="请求审核动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-323" y="904" />
+            </Array>
+            <mxPoint x="-449" y="904" as="sourcePoint" />
+            <mxPoint x="-219" y="904" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-189" value="修改领养状态并生成审核记录()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" target="Sj6CbrZaiBdFN8Kit7LV-166" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-209" y="916" as="sourcePoint" />
+            <mxPoint x="75" y="874" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-191" value="审核处理成功()" style="verticalAlign=bottom;elbow=vertical;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-214.5" y="956" as="sourcePoint" />
+            <mxPoint x="-449" y="956" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-190" value="审核处理成功()" style="verticalAlign=bottom;elbow=vertical;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="Sj6CbrZaiBdFN8Kit7LV-163" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="71" y="944" as="sourcePoint" />
+            <mxPoint x="-208" y="944" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-167" value="点击动物领养管理()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-150" target="Sj6CbrZaiBdFN8Kit7LV-152" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="278" y="2287" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-168" value="展示所有动物领养信息列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-152" target="Sj6CbrZaiBdFN8Kit7LV-150" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="279" y="2339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-169" value="选择动物领养信息并点击编辑()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-150" target="Sj6CbrZaiBdFN8Kit7LV-153" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="278" y="2391" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-170" value="展示编辑动物领养信息页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-153" target="Sj6CbrZaiBdFN8Kit7LV-150" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="279" y="2443" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-171" value="修改动物领养信息并点击提交()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-150" target="Sj6CbrZaiBdFN8Kit7LV-154" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="278" y="2495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-172" value="请求修改动物领养信息()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=18;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419" y="2510" as="sourcePoint" />
+            <mxPoint x="649" y="2510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-173" value="修改动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" target="Sj6CbrZaiBdFN8Kit7LV-164" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="2520" />
+            </Array>
+            <mxPoint x="660" y="2520" as="sourcePoint" />
+            <mxPoint x="948" y="2520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-174" value="修改成功()" style="verticalAlign=bottom;elbow=vertical;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="938" y="2540" as="sourcePoint" />
+            <mxPoint x="659" y="2540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-175" value="修改成功()" style="verticalAlign=bottom;elbow=vertical;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="649" y="2550" as="sourcePoint" />
+            <mxPoint x="419" y="2550" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-176" value="显示修改成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="279" y="2570" />
+            </Array>
+            <mxPoint x="409" y="2570" as="sourcePoint" />
+            <mxPoint x="124.5" y="2570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-183" value="删除成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="546" y="2858.5" />
+            </Array>
+            <mxPoint x="649" y="2858.5" as="sourcePoint" />
+            <mxPoint x="419" y="2858.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-184" value="显示删除成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="279" y="2880" />
+            </Array>
+            <mxPoint x="409" y="2880" as="sourcePoint" />
+            <mxPoint x="124.5" y="2880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-193" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="939" y="2280" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-194" value="获取所有动物助养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-151" target="Sj6CbrZaiBdFN8Kit7LV-193" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="811" y="2300" />
+            </Array>
+            <mxPoint x="661" y="2300" as="sourcePoint" />
+            <mxPoint x="949" y="2300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-195" value="返回所有动物助养信息()" style="verticalAlign=bottom;elbow=vertical;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-193" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="699" y="2320" as="sourcePoint" />
+            <mxPoint x="420" y="2320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -35,7 +35,7 @@
           <mxGeometry x="579" y="2180" width="150" height="1512" as="geometry" />
         </mxCell>
         <mxCell id="Sj6CbrZaiBdFN8Kit7LV-160" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="Sj6CbrZaiBdFN8Kit7LV-159">
-          <mxGeometry x="70" y="367" width="10" height="156" as="geometry" />
+          <mxGeometry x="70" y="305" width="10" height="156" as="geometry" />
         </mxCell>
         <mxCell id="Sj6CbrZaiBdFN8Kit7LV-161" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="Sj6CbrZaiBdFN8Kit7LV-159">
           <mxGeometry x="70" y="783" width="10" height="156" as="geometry" />
@@ -111,11 +111,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-175" value="修改成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-160" target="Sj6CbrZaiBdFN8Kit7LV-154">
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-175" value="修改成功()" style="verticalAlign=bottom;elbow=vertical;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-160" target="Sj6CbrZaiBdFN8Kit7LV-154">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="546" y="2703" />
-            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>

@@ -162,7 +162,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-179" value="点击提交()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;exitX=0.5;exitY=0.576;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="SBz0XJte0IBJ5gc46Deu-144" edge="1" source="SBz0XJte0IBJ5gc46Deu-232">
-          <mxGeometry x="-0.5949" y="9" relative="1" as="geometry">
+          <mxGeometry x="-0.5949" relative="1" as="geometry">
             <mxPoint x="128.83333333333348" y="2610" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
@@ -211,11 +211,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-186" value="显示助养成功提示()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" source="SBz0XJte0IBJ5gc46Deu-144" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.5278" y="1" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="335" y="2979" />
             </Array>
             <mxPoint x="128.83333333333348" y="2979" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-232" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=60;" parent="1" vertex="1">

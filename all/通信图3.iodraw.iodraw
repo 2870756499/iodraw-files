@@ -34,8 +34,8 @@
         <mxCell id="o5Hv3uoLztaaf233v5Tt-5" value="审核控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o5Hv3uoLztaaf233v5Tt-6" value="选择动物领养信息&lt;div&gt;进行编辑，修改，删除&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="270" width="140" height="40" as="geometry" />
+        <mxCell id="o5Hv3uoLztaaf233v5Tt-6" value="选择动物领养信息&lt;div&gt;进行编辑，修改，删除()&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="270" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o5Hv3uoLztaaf233v5Tt-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o5Hv3uoLztaaf233v5Tt-8" value="提示成功()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="348" width="80" height="30" as="geometry" />
+          <mxGeometry x="200" y="340" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

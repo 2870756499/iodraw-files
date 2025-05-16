@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-2" value="系统首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTT982zREVZlSm4ZOF8I-4" target="KTT982zREVZlSm4ZOF8I-5">
           <mxGeometry relative="1" as="geometry" />
@@ -26,13 +26,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-5" value="流浪动物控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-6" value="动物领养控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-7" value="动物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-8" value="领养记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="560" width="120" height="60" as="geometry" />

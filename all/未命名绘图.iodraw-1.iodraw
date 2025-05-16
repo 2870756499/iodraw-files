@@ -213,7 +213,7 @@
         <mxCell id="SBz0XJte0IBJ5gc46Deu-232" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=60;" vertex="1" parent="1">
           <mxGeometry x="110" y="1780" width="40" height="1440" as="geometry" />
         </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-233" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="SBz0XJte0IBJ5gc46Deu-233" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="100" y="1835" width="60" height="40" as="geometry" />
         </mxCell>
       </root>

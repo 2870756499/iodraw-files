@@ -228,18 +228,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-126" value="生成审核记录()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="rFkusXNm_rjcYYrYgrQa-88" source="rFkusXNm_rjcYYrYgrQa-89" target="rFkusXNm_rjcYYrYgrQa-84">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0018" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-119.06999999999994" y="1846" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-127" value="审核记录生成()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="rFkusXNm_rjcYYrYgrQa-88" target="rFkusXNm_rjcYYrYgrQa-89">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.3814" y="8" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-120.06999999999994" y="1898" />
             </Array>
             <mxPoint x="-329.9985714285716" y="1898" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-128" value="返回审核成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="rFkusXNm_rjcYYrYgrQa-88" target="rFkusXNm_rjcYYrYgrQa-87">

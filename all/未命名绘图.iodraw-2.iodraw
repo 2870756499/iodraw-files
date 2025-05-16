@@ -35,10 +35,10 @@
           <mxGeometry x="620" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-7" value="动物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-8" value="领养记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-55" value="登陆()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="45" y="480" width="60" height="30" as="geometry" />

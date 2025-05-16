@@ -55,9 +55,6 @@
         <mxCell id="SBz0XJte0IBJ5gc46Deu-155" value="User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="1480" y="1780" width="150" height="1996" as="geometry" />
         </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-156" value="系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="1780" width="150" height="1996" as="geometry" />
-        </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-157" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="114" y="2999" width="1422" height="150" as="geometry" />
         </mxCell>
@@ -285,11 +282,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-194" value="退出系统" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="SBz0XJte0IBJ5gc46Deu-155" target="SBz0XJte0IBJ5gc46Deu-156">
+        <mxCell id="SBz0XJte0IBJ5gc46Deu-194" value="退出系统" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="SBz0XJte0IBJ5gc46Deu-155">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1634" y="3609" />
             </Array>
+            <mxPoint x="1724.5" y="3609" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-195" value="重新登录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="SBz0XJte0IBJ5gc46Deu-155" target="SBz0XJte0IBJ5gc46Deu-140">

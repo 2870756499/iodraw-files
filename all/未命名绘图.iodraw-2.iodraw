@@ -50,7 +50,7 @@
           <mxGeometry x="-219" y="1012" width="10" height="156" as="geometry" />
         </mxCell>
         <mxCell id="Sj6CbrZaiBdFN8Kit7LV-165" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="Sj6CbrZaiBdFN8Kit7LV-163">
-          <mxGeometry x="70" y="648" width="10" height="42" as="geometry" />
+          <mxGeometry x="70" y="640" width="10" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Sj6CbrZaiBdFN8Kit7LV-166" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="Sj6CbrZaiBdFN8Kit7LV-163">
           <mxGeometry x="70" y="1064" width="10" height="42" as="geometry" />
@@ -86,19 +86,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-181" value="删除动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="Sj6CbrZaiBdFN8Kit7LV-163" source="Sj6CbrZaiBdFN8Kit7LV-161" target="Sj6CbrZaiBdFN8Kit7LV-165">
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-181" value="删除动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="Sj6CbrZaiBdFN8Kit7LV-163" target="Sj6CbrZaiBdFN8Kit7LV-165">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-59" y="648" />
+              <mxPoint x="-59" y="640" />
             </Array>
+            <mxPoint x="-209" y="640" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-182" value="删除成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="Sj6CbrZaiBdFN8Kit7LV-163" target="Sj6CbrZaiBdFN8Kit7LV-161">
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-182" value="删除成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="Sj6CbrZaiBdFN8Kit7LV-163">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-58" y="700" />
+              <mxPoint x="-58" y="692" />
             </Array>
-            <mxPoint x="74.5" y="700" as="sourcePoint" />
+            <mxPoint x="74.5" y="692" as="sourcePoint" />
+            <mxPoint x="-209" y="692" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sj6CbrZaiBdFN8Kit7LV-184" value="显示删除成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="Sj6CbrZaiBdFN8Kit7LV-163" source="Sj6CbrZaiBdFN8Kit7LV-156">

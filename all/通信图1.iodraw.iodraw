@@ -169,8 +169,8 @@
             <mxPoint x="746" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PXipuFAK4fxnIF9zSTj--1" value="选择动物()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="412" width="80" height="30" as="geometry" />
+        <mxCell id="PXipuFAK4fxnIF9zSTj--1" value="点击助养()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="420" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -106,7 +106,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-31" value="返回编辑动物助养信息页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3ojl-ZEdNO9U3Iy7Nn-c-5" target="3ojl-ZEdNO9U3Iy7Nn-c-4">
+        <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-31" value="返回信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3ojl-ZEdNO9U3Iy7Nn-c-5" target="3ojl-ZEdNO9U3Iy7Nn-c-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="548" y="1017" />

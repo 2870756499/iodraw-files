@@ -98,7 +98,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-43" value="展示动物信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;startArrow=none;startFill=0;endFill=1;fontSize=20;" parent="1" source="nUW587sMHEia9qj9hEUQ-26" edge="1">
+        <mxCell id="nUW587sMHEia9qj9hEUQ-43" value="展示动物信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;startArrow=none;startFill=0;endFill=1;fontSize=20;" parent="1" source="nUW587sMHEia9qj9hEUQ-26" target="Ec8c4xhh7JzSX6zcBbf3-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="417" y="3591" />
@@ -143,7 +143,7 @@
             <mxPoint x="618" y="3750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-49" value="显示领养成功消息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;startArrow=none;startFill=0;endFill=1;fontSize=20;" parent="1" edge="1">
+        <mxCell id="nUW587sMHEia9qj9hEUQ-49" value="显示领养成功消息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;startArrow=none;startFill=0;endFill=1;fontSize=20;" parent="1" edge="1" target="Ec8c4xhh7JzSX6zcBbf3-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="417" y="3790" />

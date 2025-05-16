@@ -19,8 +19,8 @@
             <mxPoint x="270" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GalNU3vihgCRiJwimw_--93" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="205" y="278" width="50" height="30" as="geometry" />
+        <mxCell id="GalNU3vihgCRiJwimw_--93" value="登陆()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="278" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

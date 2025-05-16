@@ -20,22 +20,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-4" value="动物领养界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTT982zREVZlSm4ZOF8I-5" target="KTT982zREVZlSm4ZOF8I-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-5" value="流浪动物控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-6" value="动物领养控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-7" value="动物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-8" value="领养记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-55" value="登陆()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="45" y="480" width="60" height="30" as="geometry" />

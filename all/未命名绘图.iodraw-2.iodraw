@@ -109,6 +109,9 @@
         <mxCell id="KTT982zREVZlSm4ZOF8I-77" value="点击领养" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="413" y="548" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KTT982zREVZlSm4ZOF8I-78" value="显示领养成功消息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="598" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

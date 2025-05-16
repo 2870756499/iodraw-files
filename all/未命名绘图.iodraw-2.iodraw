@@ -159,11 +159,14 @@
         <mxCell id="GalNU3vihgCRiJwimw_--134" value="展示所有流浪动物列表()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-155" y="582" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GalNU3vihgCRiJwimw_--135" value="保存流浪动物信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="628" width="120" height="30" as="geometry" />
+        <mxCell id="GalNU3vihgCRiJwimw_--135" value="保存流浪动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="628" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--136" value="保存成功()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-80" y="688" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GalNU3vihgCRiJwimw_--137" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="488" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

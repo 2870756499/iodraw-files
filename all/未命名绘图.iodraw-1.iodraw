@@ -287,7 +287,7 @@
           <mxGeometry x="-134.07" y="1534" width="10" height="56" as="geometry" />
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-87" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="rFkusXNm_rjcYYrYgrQa-88">
-          <mxGeometry x="-134.07" y="1638" width="10" height="62" as="geometry" />
+          <mxGeometry x="-134.07" y="1638" width="10" height="369" as="geometry" />
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-89" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="rFkusXNm_rjcYYrYgrQa-88">
           <mxGeometry x="70.93" y="1690" width="10" height="267" as="geometry" />

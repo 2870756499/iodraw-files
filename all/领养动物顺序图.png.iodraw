@@ -252,7 +252,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-41" value="获取动物信息(动物ID)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-26" target="nUW587sMHEia9qj9hEUQ-30">
+        <mxCell id="nUW587sMHEia9qj9hEUQ-41" value="获取动物信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-26" target="nUW587sMHEia9qj9hEUQ-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="737" y="3487" />
@@ -280,11 +280,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-45" value="创建领养记录(用户ID, 动物ID)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-27" target="nUW587sMHEia9qj9hEUQ-32">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="nUW587sMHEia9qj9hEUQ-45" value="创建领养记录()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-27" target="nUW587sMHEia9qj9hEUQ-32">
+          <mxGeometry x="0.0003" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="837" y="3695" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nUW587sMHEia9qj9hEUQ-46" value="创建领养记录()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-32" target="nUW587sMHEia9qj9hEUQ-35">

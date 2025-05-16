@@ -247,9 +247,10 @@
             <mxPoint x="419" y="3222" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-190" value="审核处理成功()" style="verticalAlign=bottom;elbow=vertical;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" edge="1" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-166" target="Sj6CbrZaiBdFN8Kit7LV-162">
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-190" value="审核处理成功()" style="verticalAlign=bottom;elbow=vertical;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="942.5" y="3296" as="sourcePoint" />
+            <mxPoint x="939" y="3210" as="sourcePoint" />
+            <mxPoint x="660" y="3210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sj6CbrZaiBdFN8Kit7LV-193" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" vertex="1" parent="1">

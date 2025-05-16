@@ -253,7 +253,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OuuB-311lwypd1mnnK1K-139" value="展示删除确认页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="OuuB-311lwypd1mnnK1K-102" target="OuuB-311lwypd1mnnK1K-89">
+        <mxCell id="OuuB-311lwypd1mnnK1K-139" value="展示删除确认页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="OuuB-311lwypd1mnnK1K-102" target="OuuB-311lwypd1mnnK1K-96">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="554" y="1479" />

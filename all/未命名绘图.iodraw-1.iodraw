@@ -377,7 +377,7 @@
           <mxGeometry x="700" y="390" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-135" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=80;" vertex="1" parent="1">
-          <mxGeometry x="80" y="50" width="21" height="2158" as="geometry" />
+          <mxGeometry x="70" y="50" width="43" height="2158" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

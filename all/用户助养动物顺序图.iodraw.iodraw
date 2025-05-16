@@ -145,17 +145,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-177" value="显示助养页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" edge="1">
-          <mxGeometry x="0.5969" y="4" relative="1" as="geometry">
+          <mxGeometry x="0.5472" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="337" y="2507" />
+              <mxPoint x="337" y="2508" />
             </Array>
-            <mxPoint x="118.83333333333348" y="2507" as="targetPoint" />
-            <mxPoint x="521.5000000000005" y="2507" as="sourcePoint" />
+            <mxPoint x="118.83333333333348" y="2508" as="targetPoint" />
+            <mxPoint x="521.5000000000005" y="2508" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-178" value="完善助养信息()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;" parent="1" target="SBz0XJte0IBJ5gc46Deu-198" edge="1">
-          <mxGeometry x="0.0017" relative="1" as="geometry">
+          <mxGeometry x="0.0013" relative="1" as="geometry">
             <mxPoint x="118.83333333333348" y="2550" as="sourcePoint" />
             <mxPoint x="511.50000000000045" y="2550" as="targetPoint" />
             <mxPoint as="offset" />

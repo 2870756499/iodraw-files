@@ -124,7 +124,7 @@
         <mxCell id="KTT982zREVZlSm4ZOF8I-87" value="返回动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="350" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="KTT982zREVZlSm4ZOF8I-5">
+        <mxCell id="KTT982zREVZlSm4ZOF8I-95" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KTT982zREVZlSm4ZOF8I-7" target="KTT982zREVZlSm4ZOF8I-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="480" as="sourcePoint" />
             <mxPoint x="600" y="480" as="targetPoint" />

@@ -17,10 +17,10 @@
           <mxGeometry x="450" y="1780" width="124" height="1470" as="geometry" />
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-143" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;fillStyle=auto;fillColor=#B3B3B3;" vertex="1" parent="SBz0XJte0IBJ5gc46Deu-142">
-          <mxGeometry x="55" y="380" width="10" height="270" as="geometry" />
+          <mxGeometry x="57" y="357" width="10" height="270" as="geometry" />
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-144" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;fillColor=#B3B3B3;" vertex="1" parent="SBz0XJte0IBJ5gc46Deu-142">
-          <mxGeometry x="45" y="830" width="10" height="374" as="geometry" />
+          <mxGeometry x="55" y="810" width="10" height="374" as="geometry" />
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-198" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;fillStyle=auto;fillColor=#B3B3B3;" vertex="1" parent="SBz0XJte0IBJ5gc46Deu-142">
           <mxGeometry x="55" y="660" width="10" height="120" as="geometry" />

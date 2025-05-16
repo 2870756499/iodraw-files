@@ -145,11 +145,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-147" value="返回领养记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-131" target="2E_0phYYdOwLw5THoSdY-128" edge="1">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-147" value="返回领养记录" style="verticalAlign=bottom;elbow=vertical;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-131" target="2E_0phYYdOwLw5THoSdY-128" edge="1">
           <mxGeometry x="-0.597" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1232" y="2025" />
-            </Array>
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>

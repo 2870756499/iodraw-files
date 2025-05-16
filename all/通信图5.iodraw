@@ -75,8 +75,8 @@
             <mxPoint x="710" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lc_qsb9SPG2Nz4T2cS0g-5" value="提示成功()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="710" y="340" width="80" height="30" as="geometry" />
+        <mxCell id="Lc_qsb9SPG2Nz4T2cS0g-5" value="返回动物助养信息列表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="680" y="340" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lc_qsb9SPG2Nz4T2cS0g-6" value="查询所有动物助养信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="670" y="240" width="150" height="30" as="geometry" />

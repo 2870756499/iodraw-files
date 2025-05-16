@@ -125,7 +125,7 @@
         <mxCell id="2E_0phYYdOwLw5THoSdY-144" value="点击领养" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-150" target="2E_0phYYdOwLw5THoSdY-130" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="691" y="1869" />
+              <mxPoint x="130" y="1869" />
             </Array>
             <mxPoint x="144.32352941176487" y="1869" as="sourcePoint" />
           </mxGeometry>

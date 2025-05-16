@@ -35,7 +35,7 @@
           <mxGeometry x="670" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-6" value="动物助养控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="285" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-114" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.617;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" parent="1" source="KTT982zREVZlSm4ZOF8I-7" target="KTT982zREVZlSm4ZOF8I-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -171,9 +171,6 @@
         </mxCell>
         <mxCell id="PXipuFAK4fxnIF9zSTj--4" value="返回成功消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="540" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PXipuFAK4fxnIF9zSTj--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.842;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KTT982zREVZlSm4ZOF8I-6" target="KTT982zREVZlSm4ZOF8I-7">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

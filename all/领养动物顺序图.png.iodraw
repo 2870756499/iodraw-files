@@ -338,6 +338,25 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nUW587sMHEia9qj9hEUQ-54" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="842" y="3497" width="10" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="nUW587sMHEia9qj9hEUQ-55" value="获取动物信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" target="nUW587sMHEia9qj9hEUQ-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="747" y="3497" />
+            </Array>
+            <mxPoint x="628" y="3497" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nUW587sMHEia9qj9hEUQ-56" value="返回动物信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="745" y="3549" />
+            </Array>
+            <mxPoint x="628" y="3549" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

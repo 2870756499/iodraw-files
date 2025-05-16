@@ -28,6 +28,15 @@
         <mxCell id="eysye3wJ2LZ5MWN7P2nP-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eysye3wJ2LZ5MWN7P2nP-41" target="eysye3wJ2LZ5MWN7P2nP-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eysye3wJ2LZ5MWN7P2nP-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eysye3wJ2LZ5MWN7P2nP-41" target="eysye3wJ2LZ5MWN7P2nP-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eysye3wJ2LZ5MWN7P2nP-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eysye3wJ2LZ5MWN7P2nP-41" target="eysye3wJ2LZ5MWN7P2nP-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eysye3wJ2LZ5MWN7P2nP-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eysye3wJ2LZ5MWN7P2nP-41" target="eysye3wJ2LZ5MWN7P2nP-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eysye3wJ2LZ5MWN7P2nP-41" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="980" y="300" width="30" height="60" as="geometry" />
         </mxCell>

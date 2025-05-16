@@ -83,11 +83,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-169" value="选择动物" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="SBz0XJte0IBJ5gc46Deu-139" target="SBz0XJte0IBJ5gc46Deu-140">
+        <mxCell id="SBz0XJte0IBJ5gc46Deu-169" value="选择动物" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="SBz0XJte0IBJ5gc46Deu-139" target="SBz0XJte0IBJ5gc46Deu-140">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="937" y="2095" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-170" value="传递所选动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="SBz0XJte0IBJ5gc46Deu-140" target="SBz0XJte0IBJ5gc46Deu-143">

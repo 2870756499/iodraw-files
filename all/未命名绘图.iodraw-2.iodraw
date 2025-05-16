@@ -105,7 +105,7 @@
         <mxCell id="GalNU3vihgCRiJwimw_--121" value="新增成功()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="600" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GalNU3vihgCRiJwimw_--122" value="流浪动物控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GalNU3vihgCRiJwimw_--122" value="流浪动物信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-230" y="644" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

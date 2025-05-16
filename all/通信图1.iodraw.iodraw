@@ -22,7 +22,7 @@
         <mxCell id="KTT982zREVZlSm4ZOF8I-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="KTT982zREVZlSm4ZOF8I-4" target="KTT982zREVZlSm4ZOF8I-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PXipuFAK4fxnIF9zSTj--2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTT982zREVZlSm4ZOF8I-4" target="KTT982zREVZlSm4ZOF8I-6">
+        <mxCell id="PXipuFAK4fxnIF9zSTj--2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KTT982zREVZlSm4ZOF8I-4" target="KTT982zREVZlSm4ZOF8I-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-4" value="动物助养界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -195,7 +195,7 @@
         <mxCell id="PXipuFAK4fxnIF9zSTj--10" value="更新成功()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="578" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PXipuFAK4fxnIF9zSTj--11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.975;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KTT982zREVZlSm4ZOF8I-8" target="KTT982zREVZlSm4ZOF8I-6">
+        <mxCell id="PXipuFAK4fxnIF9zSTj--11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.975;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="KTT982zREVZlSm4ZOF8I-8" target="KTT982zREVZlSm4ZOF8I-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PXipuFAK4fxnIF9zSTj--12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">

@@ -342,14 +342,14 @@
         </mxCell>
         <mxCell id="nUW587sMHEia9qj9hEUQ-63" value="返回动物信息()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="860" y="3349.9999999999995" as="targetPoint" />
-            <mxPoint x="1250" y="3349.9999999999995" as="sourcePoint" />
+            <mxPoint x="840" y="3539.9999999999995" as="targetPoint" />
+            <mxPoint x="1230" y="3539.9999999999995" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nUW587sMHEia9qj9hEUQ-64" value="获取动物信息()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="865" y="3310.0000000000005" as="sourcePoint" />
-            <mxPoint x="1255" y="3310.0000000000005" as="targetPoint" />
+            <mxPoint x="845" y="3500.0000000000005" as="sourcePoint" />
+            <mxPoint x="1235" y="3500.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

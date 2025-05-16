@@ -101,13 +101,6 @@
             <mxPoint x="74.5" y="700" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-183" value="删除成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="Sj6CbrZaiBdFN8Kit7LV-163" source="Sj6CbrZaiBdFN8Kit7LV-161" target="Sj6CbrZaiBdFN8Kit7LV-156">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-322" y="752" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Sj6CbrZaiBdFN8Kit7LV-184" value="显示删除成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="Sj6CbrZaiBdFN8Kit7LV-163" source="Sj6CbrZaiBdFN8Kit7LV-156">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -247,6 +240,15 @@
             </Array>
             <mxPoint x="409" y="2570" as="sourcePoint" />
             <mxPoint x="124.5" y="2570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-183" value="删除成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="546" y="2858.5" />
+            </Array>
+            <mxPoint x="649" y="2858.5" as="sourcePoint" />
+            <mxPoint x="419" y="2858.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

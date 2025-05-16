@@ -8,7 +8,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o5Hv3uoLztaaf233v5Tt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GalNU3vihgCRiJwimw_--89" target="o5Hv3uoLztaaf233v5Tt-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="145" y="440" />
+              <mxPoint x="430" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--89" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="290" width="30" height="60" as="geometry" />
@@ -105,6 +110,9 @@
         </mxCell>
         <mxCell id="o5Hv3uoLztaaf233v5Tt-24" value="删除成功()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="458" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o5Hv3uoLztaaf233v5Tt-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="398" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

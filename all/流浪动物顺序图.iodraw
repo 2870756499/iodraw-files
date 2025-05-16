@@ -115,10 +115,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-143" value="展示动物信息" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=18;" parent="1" target="2E_0phYYdOwLw5THoSdY-150" edge="1" source="2E_0phYYdOwLw5THoSdY-122">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-143" value="展示动物信息" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=18;" parent="1" target="2E_0phYYdOwLw5THoSdY-129" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1215" y="1830" as="sourcePoint" />
-            <mxPoint x="219.32352941176487" y="1830" as="targetPoint" />
+            <mxPoint x="130" y="1440" as="sourcePoint" />
+            <mxPoint x="-30.92857142857156" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2E_0phYYdOwLw5THoSdY-144" value="点击领养" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-150" target="2E_0phYYdOwLw5THoSdY-130" edge="1">

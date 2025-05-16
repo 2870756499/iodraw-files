@@ -248,7 +248,7 @@
             <mxPoint x="200.00352941176487" y="3410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-40" value="选择动物()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;fontSize=20;" edge="1" parent="1">
+        <mxCell id="nUW587sMHEia9qj9hEUQ-40" value="选择流浪动物()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;fontSize=20;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="419" y="3460" />
@@ -264,7 +264,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-42" value="返回动物信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=20;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-30" target="nUW587sMHEia9qj9hEUQ-26">
+        <mxCell id="nUW587sMHEia9qj9hEUQ-42" value="返回动物信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;fontSize=20;endFill=1;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-30" target="nUW587sMHEia9qj9hEUQ-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="735" y="3539" />

@@ -138,11 +138,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-98" value="获取动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-75" target="rFkusXNm_rjcYYrYgrQa-80">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-98" value="获取动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="811" y="573" />
+              <mxPoint x="811" y="550" />
             </Array>
+            <mxPoint x="685" y="549.9999999999998" as="sourcePoint" />
+            <mxPoint x="916" y="549.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-99" value="返回动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-78" target="rFkusXNm_rjcYYrYgrQa-75">
@@ -152,11 +154,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-100" value="返回编辑页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-73" target="rFkusXNm_rjcYYrYgrQa-69">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-100" value="返回编辑页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="677" />
+              <mxPoint x="540" y="630" />
             </Array>
+            <mxPoint x="679.5000000000005" y="630.0000000000002" as="sourcePoint" />
+            <mxPoint x="381" y="630.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-101" value="展示编辑动物领养信息页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-69">

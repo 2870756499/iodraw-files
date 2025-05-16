@@ -132,13 +132,13 @@
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-96" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="510" as="sourcePoint" />
+            <mxPoint x="500" y="510" as="sourcePoint" />
             <mxPoint x="550" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-97" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="KTT982zREVZlSm4ZOF8I-97" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.03;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KTT982zREVZlSm4ZOF8I-101">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="500" as="sourcePoint" />
+            <mxPoint x="580" y="490" as="sourcePoint" />
             <mxPoint x="530" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>

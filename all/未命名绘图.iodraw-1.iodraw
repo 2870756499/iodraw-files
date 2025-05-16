@@ -55,7 +55,7 @@
         <mxCell id="SBz0XJte0IBJ5gc46Deu-154" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;fillColor=#B3B3B3;" vertex="1" parent="SBz0XJte0IBJ5gc46Deu-153">
           <mxGeometry x="70" y="939" width="10" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-165" value="请求流浪动物列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" target="SBz0XJte0IBJ5gc46Deu-141">
+        <mxCell id="SBz0XJte0IBJ5gc46Deu-165" value="请求流浪动物列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="SBz0XJte0IBJ5gc46Deu-232" target="SBz0XJte0IBJ5gc46Deu-141">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="1900" />

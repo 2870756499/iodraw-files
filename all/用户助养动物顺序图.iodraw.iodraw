@@ -219,6 +219,9 @@
         <mxCell id="SBz0XJte0IBJ5gc46Deu-233" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="90" y="1850" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="KBj1n3p4Hrzd20rAkTDd-4" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;fillStyle=auto;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="517" y="2147" width="10" height="283" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

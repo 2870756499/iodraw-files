@@ -99,25 +99,25 @@
             <mxPoint x="649" y="2530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-173" value="修改动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="Sj6CbrZaiBdFN8Kit7LV-164">
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-173" value="修改动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="800" y="2537" />
+              <mxPoint x="810" y="2520" />
             </Array>
-            <mxPoint x="650" y="2537" as="sourcePoint" />
-            <mxPoint x="934" y="2500" as="targetPoint" />
+            <mxPoint x="660" y="2520" as="sourcePoint" />
+            <mxPoint x="948" y="2520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-174" value="修改成功()" style="verticalAlign=bottom;elbow=vertical;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-164" target="Sj6CbrZaiBdFN8Kit7LV-160">
+        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-174" value="修改成功()" style="verticalAlign=bottom;elbow=vertical;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="942.5" y="2581" as="sourcePoint" />
-            <mxPoint x="654" y="2550" as="targetPoint" />
+            <mxPoint x="938" y="2540" as="sourcePoint" />
+            <mxPoint x="659" y="2540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sj6CbrZaiBdFN8Kit7LV-175" value="修改成功()" style="verticalAlign=bottom;elbow=vertical;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="649" y="2570" as="sourcePoint" />
-            <mxPoint x="419" y="2570" as="targetPoint" />
+            <mxPoint x="649" y="2550" as="sourcePoint" />
+            <mxPoint x="419" y="2550" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>

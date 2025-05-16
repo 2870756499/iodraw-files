@@ -102,8 +102,8 @@
         </mxCell>
         <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-30" value="返回动物助养信息()" style="verticalAlign=bottom;elbow=vertical;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="930.5" y="829" as="sourcePoint" />
-            <mxPoint x="690" y="760" as="targetPoint" />
+            <mxPoint x="906.5" y="820" as="sourcePoint" />
+            <mxPoint x="670" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-31" value="返回信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">

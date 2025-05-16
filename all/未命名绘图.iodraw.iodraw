@@ -324,6 +324,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="2E_0phYYdOwLw5THoSdY-150" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=60;" vertex="1" parent="1">
+          <mxGeometry x="80" y="30" width="40" height="1140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

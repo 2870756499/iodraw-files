@@ -73,7 +73,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--107" value="流浪动物控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--117" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GalNU3vihgCRiJwimw_--108" target="GalNU3vihgCRiJwimw_--94">
           <mxGeometry relative="1" as="geometry" />
@@ -100,7 +100,7 @@
           <mxGeometry x="175" y="598" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--120" value="展示新增流浪动物页面()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="570" width="150" height="30" as="geometry" />
+          <mxGeometry x="-10" y="580" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--121" value="新增成功()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="600" width="80" height="30" as="geometry" />

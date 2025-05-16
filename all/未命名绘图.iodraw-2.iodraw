@@ -44,7 +44,10 @@
           <mxGeometry x="60" y="388" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--99" value="完善信息并点击提交" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="15" y="418" width="130" height="30" as="geometry" />
+          <mxGeometry x="10" y="410" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GalNU3vihgCRiJwimw_--100" value="完善信息并点击提交" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="420" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

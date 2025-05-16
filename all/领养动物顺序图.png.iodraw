@@ -290,10 +290,10 @@
         <mxCell id="nUW587sMHEia9qj9hEUQ-46" value="创建领养记录()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1250" y="3730" />
+              <mxPoint x="1250" y="3720" />
             </Array>
-            <mxPoint x="1041" y="3730" as="sourcePoint" />
-            <mxPoint x="1433" y="3730" as="targetPoint" />
+            <mxPoint x="1041" y="3720" as="sourcePoint" />
+            <mxPoint x="1433" y="3720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nUW587sMHEia9qj9hEUQ-47" value="返回领养记录()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-34">
@@ -309,11 +309,13 @@
             <mxPoint x="618" y="3750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-49" value="显示领养成功消息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-27" target="nUW587sMHEia9qj9hEUQ-22">
+        <mxCell id="nUW587sMHEia9qj9hEUQ-49" value="显示领养成功消息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="417" y="3903" />
+              <mxPoint x="417" y="3790" />
             </Array>
+            <mxPoint x="608" y="3790" as="sourcePoint" />
+            <mxPoint x="204.32352941176487" y="3790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nUW587sMHEia9qj9hEUQ-50" value="登陆()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1" target="nUW587sMHEia9qj9hEUQ-24">

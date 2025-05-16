@@ -13,60 +13,6 @@
         <mxCell id="Sj6CbrZaiBdFN8Kit7LV-97" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="Sj6CbrZaiBdFN8Kit7LV-90">
           <mxGeometry x="70" y="1771" width="10" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-98" value="动物领养控制" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="484" y="20" width="150" height="2136" as="geometry" />
-        </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-104" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="Sj6CbrZaiBdFN8Kit7LV-98">
-          <mxGeometry x="70" y="1823" width="10" height="156" as="geometry" />
-        </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-105" value="动物领养记录" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="693" y="20" width="150" height="2136" as="geometry" />
-        </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-111" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="Sj6CbrZaiBdFN8Kit7LV-105">
-          <mxGeometry x="70" y="1875" width="10" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-144" value="完善并提交审核信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-89" target="Sj6CbrZaiBdFN8Kit7LV-97">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="248" y="1791" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-145" value="提交审核处理()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-97" target="Sj6CbrZaiBdFN8Kit7LV-104">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="467" y="1843" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-146" value="更新领养状态()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-104" target="Sj6CbrZaiBdFN8Kit7LV-111">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="676" y="1895" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-147" value="确认更新状态()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-105" target="Sj6CbrZaiBdFN8Kit7LV-104">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="674" y="1947" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-148" value="审核处理完成()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-104" target="Sj6CbrZaiBdFN8Kit7LV-97">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="465" y="1999" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Sj6CbrZaiBdFN8Kit7LV-149" value="显示审核结果()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="Sj6CbrZaiBdFN8Kit7LV-97" target="Sj6CbrZaiBdFN8Kit7LV-89">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="246" y="2051" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Sj6CbrZaiBdFN8Kit7LV-150" value="管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="50" y="2180" width="150" height="1512" as="geometry" />
         </mxCell>

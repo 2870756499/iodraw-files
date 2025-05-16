@@ -97,7 +97,7 @@
         <mxCell id="KTT982zREVZlSm4ZOF8I-71" value="选择流浪动物()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="285" y="380" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-77" value="点击领养()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="KTT982zREVZlSm4ZOF8I-77" value="选择动物()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="285" y="402" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-78" value="显示领养成功消息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">

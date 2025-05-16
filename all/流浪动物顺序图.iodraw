@@ -43,7 +43,7 @@
         <mxCell id="2E_0phYYdOwLw5THoSdY-132" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;fontSize=18;" parent="2E_0phYYdOwLw5THoSdY-131" vertex="1">
           <mxGeometry x="70" y="783" width="10" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-133" value="登陆()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=18;" parent="1" edge="1">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-133" value="用户触发&quot;用户动物领养&quot;功能" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=18;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-29.99857142857156" y="1330" as="sourcePoint" />
             <mxPoint x="130.93" y="1330" as="targetPoint" />
@@ -108,8 +108,12 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-142" value="展示动物信息" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-122" target="2E_0phYYdOwLw5THoSdY-130" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2E_0phYYdOwLw5THoSdY-142" value="展示动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-122" target="2E_0phYYdOwLw5THoSdY-130" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="831" y="1765" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2E_0phYYdOwLw5THoSdY-143" value="展示动物信息" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=18;" parent="1" target="2E_0phYYdOwLw5THoSdY-129" edge="1">
           <mxGeometry relative="1" as="geometry">

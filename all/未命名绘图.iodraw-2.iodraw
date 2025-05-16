@@ -104,18 +104,18 @@
           <mxGeometry x="490" y="328" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-81" value="登陆()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="440" width="60" height="30" as="geometry" />
+          <mxGeometry x="600" y="440" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-82" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.02;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KTT982zREVZlSm4ZOF8I-81">
+        <mxCell id="KTT982zREVZlSm4ZOF8I-82" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.02;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="661" y="500" as="sourcePoint" />
-            <mxPoint x="665" y="450" as="targetPoint" />
+            <mxPoint x="714.5" y="499.01" as="sourcePoint" />
+            <mxPoint x="714.6999999999998" y="443" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-84" value="" style="endArrow=none;html=1;rounded=0;entryX=1.02;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="691" y="508" as="sourcePoint" />
-            <mxPoint x="691.1999999999998" y="451.99" as="targetPoint" />
+            <mxPoint x="744.5" y="507.01" as="sourcePoint" />
+            <mxPoint x="744.6999999999998" y="451" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-86" value="获取动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">

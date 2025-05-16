@@ -182,18 +182,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-104" value="更新动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-76" target="rFkusXNm_rjcYYrYgrQa-81">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-104" value="更新动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="811" y="885" />
+              <mxPoint x="811" y="860" />
             </Array>
+            <mxPoint x="685" y="860" as="sourcePoint" />
+            <mxPoint x="916" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-105" value="更新成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-78" target="rFkusXNm_rjcYYrYgrQa-76">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.448" y="-47" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="812" y="937" />
             </Array>
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-106" value="返回修改成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1">

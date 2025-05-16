@@ -129,10 +129,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-33" value="展示编辑动物领养信息页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-4" target="rFkusXNm_rjcYYrYgrQa-12">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0005" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="549" y="491" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-34" value="获取动物领养信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-12" target="rFkusXNm_rjcYYrYgrQa-21">

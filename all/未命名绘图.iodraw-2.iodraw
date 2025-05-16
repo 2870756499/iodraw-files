@@ -83,8 +83,8 @@
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--110" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="632" as="sourcePoint" />
-            <mxPoint x="140" y="562" as="targetPoint" />
+            <mxPoint x="130" y="640" as="sourcePoint" />
+            <mxPoint x="130" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--111" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -92,18 +92,6 @@
             <mxPoint x="180" y="572" as="sourcePoint" />
             <mxPoint x="180" y="632" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="GalNU3vihgCRiJwimw_--112" value="点击新增()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="75" y="560" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GalNU3vihgCRiJwimw_--113" value="完善信息并点击提交()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="15" y="582" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GalNU3vihgCRiJwimw_--114" value="修改信息并点击提交()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="15" y="602" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GalNU3vihgCRiJwimw_--115" value="选择流浪动物并点击删除()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="622" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

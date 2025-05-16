@@ -316,10 +316,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-50" value="请求流浪动物列表()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="3240" as="sourcePoint" />
-            <mxPoint x="623" y="3240" as="targetPoint" />
+        <mxCell id="nUW587sMHEia9qj9hEUQ-50" value="登陆()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
+          <mxGeometry x="-0.0032" relative="1" as="geometry">
+            <mxPoint x="210" y="3230" as="sourcePoint" />
+            <mxPoint x="413" y="3230" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

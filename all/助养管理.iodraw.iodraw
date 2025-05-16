@@ -41,7 +41,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-22" value="请求展示动物助养信息列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3ojl-ZEdNO9U3Iy7Nn-c-4" target="3ojl-ZEdNO9U3Iy7Nn-c-6">
+        <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-22" value="获取助养信息列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3ojl-ZEdNO9U3Iy7Nn-c-4" target="3ojl-ZEdNO9U3Iy7Nn-c-6">
           <mxGeometry x="0.0038" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="547" y="549" />

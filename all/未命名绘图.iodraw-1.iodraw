@@ -213,14 +213,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-124" value="修改领养状态()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="rFkusXNm_rjcYYrYgrQa-88" source="rFkusXNm_rjcYYrYgrQa-89" target="rFkusXNm_rjcYYrYgrQa-83">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.5541" y="-2" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-119.06999999999994" y="1742" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-125" value="更新成功()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="rFkusXNm_rjcYYrYgrQa-88" target="rFkusXNm_rjcYYrYgrQa-89">
-          <mxGeometry x="-0.5311" y="14" relative="1" as="geometry">
+          <mxGeometry x="-0.5311" y="4" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-120.06999999999994" y="1794" />
             </Array>

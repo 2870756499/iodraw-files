@@ -186,8 +186,8 @@
         <mxCell id="Ec8c4xhh7JzSX6zcBbf3-2" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=76;" vertex="1" parent="1">
           <mxGeometry x="180" y="3130" width="40" height="844" as="geometry" />
         </mxCell>
-        <mxCell id="Ec8c4xhh7JzSX6zcBbf3-3" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="170" y="3195" width="60" height="40" as="geometry" />
+        <mxCell id="Ec8c4xhh7JzSX6zcBbf3-3" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="170" y="3210" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -127,7 +127,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-177" value="显示助养页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" edge="1">
-          <mxGeometry x="0.5497" relative="1" as="geometry">
+          <mxGeometry x="0.0505" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="337" y="2508" />
             </Array>
@@ -137,7 +137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-178" value="完善助养信息()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;" parent="1" edge="1">
-          <mxGeometry x="-0.5398" relative="1" as="geometry">
+          <mxGeometry x="-0.0349" relative="1" as="geometry">
             <mxPoint x="118.83333333333348" y="2610" as="sourcePoint" />
             <mxPoint x="515" y="2610" as="targetPoint" />
             <mxPoint as="offset" />

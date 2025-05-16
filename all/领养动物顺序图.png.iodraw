@@ -333,8 +333,26 @@
         </mxCell>
         <mxCell id="nUW587sMHEia9qj9hEUQ-55" value="获取动物信息()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="845" y="3290.0000000000005" as="sourcePoint" />
-            <mxPoint x="1235" y="3290.0000000000005" as="targetPoint" />
+            <mxPoint x="852" y="3298.5000000000005" as="sourcePoint" />
+            <mxPoint x="1242" y="3298.5000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nUW587sMHEia9qj9hEUQ-57" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="842" y="3289" width="10" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="nUW587sMHEia9qj9hEUQ-58" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="1242" y="3298.5" width="10" height="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nUW587sMHEia9qj9hEUQ-59" value="返回动物信息()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="3339.9999999999995" as="targetPoint" />
+            <mxPoint x="1240" y="3339.9999999999995" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nUW587sMHEia9qj9hEUQ-60" value="获取动物信息()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="3300.0000000000005" as="sourcePoint" />
+            <mxPoint x="1245" y="3300.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

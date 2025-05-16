@@ -38,27 +38,24 @@
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--96" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="135" y="640" as="sourcePoint" />
-            <mxPoint x="135" y="570" as="targetPoint" />
+            <mxPoint x="130" y="460" as="sourcePoint" />
+            <mxPoint x="130" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--97" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="175" y="580" as="sourcePoint" />
-            <mxPoint x="175" y="640" as="targetPoint" />
+            <mxPoint x="170" y="400" as="sourcePoint" />
+            <mxPoint x="170" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--98" value="点击新增()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="65" y="568" width="80" height="30" as="geometry" />
+          <mxGeometry x="60" y="388" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--99" value="完善信息并点击提交()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="590" width="140" height="30" as="geometry" />
+          <mxGeometry x="5" y="410" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--100" value="修改信息并点击提交()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="610" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GalNU3vihgCRiJwimw_--109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GalNU3vihgCRiJwimw_--101" target="GalNU3vihgCRiJwimw_--104">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="5" y="430" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--101" value="选择流浪动物并点击删除()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-20" y="450" width="160" height="30" as="geometry" />
@@ -80,6 +77,30 @@
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--108" value="新增流浪动物页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GalNU3vihgCRiJwimw_--110" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="470" as="sourcePoint" />
+            <mxPoint x="140" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GalNU3vihgCRiJwimw_--111" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="410" as="sourcePoint" />
+            <mxPoint x="180" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GalNU3vihgCRiJwimw_--112" value="点击新增()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="398" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GalNU3vihgCRiJwimw_--113" value="完善信息并点击提交()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="420" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GalNU3vihgCRiJwimw_--114" value="修改信息并点击提交()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="440" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GalNU3vihgCRiJwimw_--115" value="选择流浪动物并点击删除()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="460" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

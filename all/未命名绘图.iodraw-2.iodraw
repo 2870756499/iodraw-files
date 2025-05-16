@@ -142,14 +142,11 @@
             <mxPoint x="490" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-99" value="返回动物列表()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="488" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-100" value="获取动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="410" width="100" height="30" as="geometry" />
+          <mxGeometry x="470" y="440" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-101" value="返回动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="510" width="100" height="30" as="geometry" />
+          <mxGeometry x="470" y="490" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

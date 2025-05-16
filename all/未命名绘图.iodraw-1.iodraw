@@ -73,12 +73,6 @@
         <mxCell id="SBz0XJte0IBJ5gc46Deu-162" value="[系统异常]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=18;" vertex="1" parent="SBz0XJte0IBJ5gc46Deu-161">
           <mxGeometry x="30" width="1392" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-163" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="314" y="3531" width="1422" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-164" value="[用户退出]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=18;" vertex="1" parent="SBz0XJte0IBJ5gc46Deu-163">
-          <mxGeometry x="30" width="1392" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="SBz0XJte0IBJ5gc46Deu-165" value="请求流浪动物列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="SBz0XJte0IBJ5gc46Deu-155" target="SBz0XJte0IBJ5gc46Deu-141">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -279,13 +273,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1037" y="3501" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-195" value="重新登录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="SBz0XJte0IBJ5gc46Deu-155" target="SBz0XJte0IBJ5gc46Deu-140">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="937" y="3661" />
             </Array>
           </mxGeometry>
         </mxCell>

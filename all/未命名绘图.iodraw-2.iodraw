@@ -171,8 +171,8 @@
         <mxCell id="GalNU3vihgCRiJwimw_--138" value="展示所有流浪动物列表()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-115" y="538" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GalNU3vihgCRiJwimw_--139" value="新增、修改、删除流浪动物信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-155" y="468" width="190" height="30" as="geometry" />
+        <mxCell id="GalNU3vihgCRiJwimw_--139" value="新增、修改、删除流浪动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="470" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--141" value="执行成功()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-100" y="558" width="80" height="30" as="geometry" />

@@ -161,12 +161,6 @@
         <mxCell id="o5Hv3uoLztaaf233v5Tt-41" value="展示审核表单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="478" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o5Hv3uoLztaaf233v5Tt-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o5Hv3uoLztaaf233v5Tt-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="540" as="sourcePoint" />
-            <mxPoint x="575" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="o5Hv3uoLztaaf233v5Tt-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="495" y="530" as="sourcePoint" />
@@ -178,6 +172,9 @@
             <mxPoint x="575" y="560" as="sourcePoint" />
             <mxPoint x="495" y="560" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="o5Hv3uoLztaaf233v5Tt-47" value="修改领养状态()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="498" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

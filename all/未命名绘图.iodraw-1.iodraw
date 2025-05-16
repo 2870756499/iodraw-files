@@ -11,7 +11,7 @@
           <mxGeometry x="70" y="107" width="10" height="213" as="geometry" />
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-69" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="rFkusXNm_rjcYYrYgrQa-67">
-          <mxGeometry x="70" y="419" width="10" height="260" as="geometry" />
+          <mxGeometry x="70" y="419" width="10" height="211" as="geometry" />
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-70" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="rFkusXNm_rjcYYrYgrQa-67">
           <mxGeometry x="70" y="731" width="10" height="209" as="geometry" />
@@ -165,12 +165,13 @@
             <mxPoint x="381" y="630.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-101" value="展示编辑动物领养信息页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-69">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-101" value="展示编辑动物领养信息页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="247" y="729" />
+              <mxPoint x="247" y="660" />
             </Array>
-            <mxPoint x="94.07142857142844" y="729" as="targetPoint" />
+            <mxPoint x="371" y="660" as="sourcePoint" />
+            <mxPoint x="94.07142857142844" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-102" value="修改动物领养信息, 点击提交()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" target="rFkusXNm_rjcYYrYgrQa-70">

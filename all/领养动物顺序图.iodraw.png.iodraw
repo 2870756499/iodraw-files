@@ -49,9 +49,10 @@
         <mxCell id="nUW587sMHEia9qj9hEUQ-35" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;fontSize=20;" parent="nUW587sMHEia9qj9hEUQ-34" vertex="1">
           <mxGeometry x="70" y="590" width="10" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-36" value="请求流浪动物列表()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;fontSize=20;" parent="1" target="nUW587sMHEia9qj9hEUQ-25" edge="1">
+        <mxCell id="nUW587sMHEia9qj9hEUQ-36" value="请求流浪动物列表()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;fontSize=20;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="3230" as="sourcePoint" />
+            <mxPoint x="410" y="3250" as="sourcePoint" />
+            <mxPoint x="612.5" y="3250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nUW587sMHEia9qj9hEUQ-37" value="获取动物列表()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;fontSize=20;" parent="1" edge="1">
@@ -151,10 +152,10 @@
             <mxPoint x="204.32352941176487" y="3790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-50" value="登陆()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;fontSize=20;" parent="1" target="nUW587sMHEia9qj9hEUQ-24" edge="1">
+        <mxCell id="nUW587sMHEia9qj9hEUQ-50" value="登陆()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;fontSize=20;" parent="1" edge="1">
           <mxGeometry x="-0.0032" relative="1" as="geometry">
-            <mxPoint x="210" y="3230" as="sourcePoint" />
-            <mxPoint x="413" y="3230" as="targetPoint" />
+            <mxPoint x="199.5" y="3240" as="sourcePoint" />
+            <mxPoint x="408" y="3240" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>

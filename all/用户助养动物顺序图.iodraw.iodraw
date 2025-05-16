@@ -77,11 +77,8 @@
             <mxPoint x="530.0033333333334" y="1960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SBz0XJte0IBJ5gc46Deu-168" value="展示流浪动物列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" source="SBz0XJte0IBJ5gc46Deu-142" target="SBz0XJte0IBJ5gc46Deu-232" edge="1">
+        <mxCell id="SBz0XJte0IBJ5gc46Deu-168" value="展示流浪动物列表()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;" parent="1" source="SBz0XJte0IBJ5gc46Deu-142" target="SBz0XJte0IBJ5gc46Deu-140" edge="1">
           <mxGeometry x="-0.0868" y="-13" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="235" y="2043" />
-            </Array>
             <mxPoint x="128.83333333333348" y="2043" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>

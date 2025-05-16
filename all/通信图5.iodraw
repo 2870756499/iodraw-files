@@ -81,8 +81,8 @@
         <mxCell id="Lc_qsb9SPG2Nz4T2cS0g-6" value="查询所有动物助养信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="670" y="240" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Lc_qsb9SPG2Nz4T2cS0g-7" value="请求编辑，删除，修改流浪动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="630" y="270" width="220" height="30" as="geometry" />
+        <mxCell id="Lc_qsb9SPG2Nz4T2cS0g-7" value="保存信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="705" y="270" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tZdSFtZ-BejQVJ9a7vD9-1" value="展示所有助养信息列表()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="155" y="338" width="150" height="30" as="geometry" />
@@ -92,6 +92,9 @@
         </mxCell>
         <mxCell id="tZdSFtZ-BejQVJ9a7vD9-3" value="返回信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="495" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tZdSFtZ-BejQVJ9a7vD9-4" value="保存信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="368" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

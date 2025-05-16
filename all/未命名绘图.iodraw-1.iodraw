@@ -79,6 +79,9 @@
         <mxCell id="rFkusXNm_rjcYYrYgrQa-89" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="rFkusXNm_rjcYYrYgrQa-88">
           <mxGeometry x="75" y="1823" width="10" height="220" as="geometry" />
         </mxCell>
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-131" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="rFkusXNm_rjcYYrYgrQa-88">
+          <mxGeometry x="70" y="1490" width="10" height="279" as="geometry" />
+        </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-90" value="点击动物领养管理()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-66" target="rFkusXNm_rjcYYrYgrQa-68">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -358,9 +361,6 @@
               <mxPoint x="620" y="2185" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-131" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="391" y="1321" width="10" height="279" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

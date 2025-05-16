@@ -94,6 +94,9 @@
             <mxPoint x="-510.92857142857156" y="859" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-137" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="rFkusXNm_rjcYYrYgrQa-73">
+          <mxGeometry x="102.5" y="1070" width="15" height="117" as="geometry" />
+        </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-78" value="动物" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="846" y="50" width="150" height="2240" as="geometry" />
         </mxCell>
@@ -247,12 +250,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-111" value="展示删除确认页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="rFkusXNm_rjcYYrYgrQa-71">
+        <mxCell id="rFkusXNm_rjcYYrYgrQa-111" value="展示删除确认页面()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="247" y="1249" />
+              <mxPoint x="247" y="1220" />
             </Array>
-            <mxPoint x="94.07142857142844" y="1249" as="targetPoint" />
+            <mxPoint x="371" y="1220" as="sourcePoint" />
+            <mxPoint x="94.07142857142844" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-112" value="点击确定()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" target="rFkusXNm_rjcYYrYgrQa-72">
@@ -394,9 +398,6 @@
         </mxCell>
         <mxCell id="rFkusXNm_rjcYYrYgrQa-136" value="管理员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="51.5" y="110" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rFkusXNm_rjcYYrYgrQa-137" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="705" y="776" width="10" height="117" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -301,8 +301,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nUW587sMHEia9qj9hEUQ-48" value="领养成功()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-32" target="nUW587sMHEia9qj9hEUQ-27">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="nUW587sMHEia9qj9hEUQ-48" value="领养成功()" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="3750" as="sourcePoint" />
+            <mxPoint x="618" y="3750" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nUW587sMHEia9qj9hEUQ-49" value="显示领养成功消息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-27" target="nUW587sMHEia9qj9hEUQ-22">
           <mxGeometry relative="1" as="geometry">

@@ -19,8 +19,8 @@
             <mxPoint x="270" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GalNU3vihgCRiJwimw_--93" value="点击动物领养管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="170" y="240" width="120" height="30" as="geometry" />
+        <mxCell id="GalNU3vihgCRiJwimw_--93" value="点击动物领养管理()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="165" y="240" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o5Hv3uoLztaaf233v5Tt-2" value="动物领养控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="640" width="120" height="60" as="geometry" />
@@ -43,8 +43,8 @@
             <mxPoint x="200" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o5Hv3uoLztaaf233v5Tt-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="348" width="50" height="30" as="geometry" />
+        <mxCell id="o5Hv3uoLztaaf233v5Tt-8" value="提示成功()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="348" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

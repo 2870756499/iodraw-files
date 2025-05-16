@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="2E_0phYYdOwLw5THoSdY-97" value="打开系统首页" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;startArrow=none;startFill=0;strokeColor=default;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-117">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="205" y="127" />
-            </Array>
             <mxPoint x="94.5" y="127" as="sourcePoint" />
             <mxPoint x="295" y="127" as="targetPoint" />
           </mxGeometry>

@@ -154,10 +154,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--133" value="查询所有流浪动物信息（）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-345" y="560" width="170" height="30" as="geometry" />
+          <mxGeometry x="-160" y="600" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--134" value="返回所有流浪动物列表()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="598" width="150" height="30" as="geometry" />
+          <mxGeometry x="-335" y="600" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--135" value="保存流浪动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-105" y="628" width="130" height="30" as="geometry" />
@@ -179,6 +179,9 @@
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--142" value="更新流浪动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-160" y="580" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GalNU3vihgCRiJwimw_--143" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="568" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

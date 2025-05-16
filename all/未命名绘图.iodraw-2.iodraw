@@ -29,7 +29,7 @@
           <mxGeometry x="680" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-6" value="动物领养控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="238" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="298" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-7" value="动物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="660" width="120" height="60" as="geometry" />
@@ -77,6 +77,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="330" as="sourcePoint" />
             <mxPoint x="510" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="360" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-69" value="展示动物列表()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">

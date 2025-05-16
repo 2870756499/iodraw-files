@@ -47,12 +47,12 @@
           <mxGeometry x="670" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-55" value="登陆()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="45" y="480" width="60" height="30" as="geometry" />
+          <mxGeometry x="50" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.02;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="KTT982zREVZlSm4ZOF8I-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="106" y="540" as="sourcePoint" />
-            <mxPoint x="110" y="490" as="targetPoint" />
+            <mxPoint x="111" y="480" as="sourcePoint" />
+            <mxPoint x="115" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-62" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -114,9 +114,6 @@
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-87" value="返回动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="570" y="372" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KTT982zREVZlSm4ZOF8I-101" value="返回动物信息()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="235" y="670" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KTT982zREVZlSm4ZOF8I-105" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

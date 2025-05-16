@@ -73,12 +73,13 @@
         <mxCell id="OuuB-311lwypd1mnnK1K-112" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;fillColor=#B3B3B3;" parent="OuuB-311lwypd1mnnK1K-107" vertex="1">
           <mxGeometry x="70" y="1615" width="10" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="OuuB-311lwypd1mnnK1K-113" value="登陆()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" target="OuuB-311lwypd1mnnK1K-146" edge="1">
+        <mxCell id="OuuB-311lwypd1mnnK1K-113" value="登陆()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="262" y="127" />
+              <mxPoint x="262" y="140" />
             </Array>
-            <mxPoint x="124.07142857142844" y="127" as="sourcePoint" />
+            <mxPoint x="124.07142857142844" y="140" as="sourcePoint" />
+            <mxPoint x="300" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OuuB-311lwypd1mnnK1K-114" value="请求获取所有流浪动物()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" source="OuuB-311lwypd1mnnK1K-91" target="OuuB-311lwypd1mnnK1K-99" edge="1">

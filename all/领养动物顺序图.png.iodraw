@@ -231,10 +231,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nUW587sMHEia9qj9hEUQ-38" value="返回动物列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-29" target="nUW587sMHEia9qj9hEUQ-24">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.314" y="-1" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="635" y="3331" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nUW587sMHEia9qj9hEUQ-39" value="展示动物列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;startArrow=classic;startFill=1;" edge="1" parent="1" source="nUW587sMHEia9qj9hEUQ-24" target="nUW587sMHEia9qj9hEUQ-22">

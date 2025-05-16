@@ -153,8 +153,8 @@
             <mxPoint x="-150" y="632" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GalNU3vihgCRiJwimw_--133" value="点击新增()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="560" width="80" height="30" as="geometry" />
+        <mxCell id="GalNU3vihgCRiJwimw_--133" value="查询所有流浪动物信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="560" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GalNU3vihgCRiJwimw_--134" value="展示所有流浪动物列表()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-160" y="598" width="150" height="30" as="geometry" />

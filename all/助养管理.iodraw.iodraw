@@ -32,7 +32,7 @@
           <mxGeometry x="70" y="211" width="10" height="59" as="geometry" />
         </mxCell>
         <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-13" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="3ojl-ZEdNO9U3Iy7Nn-c-11">
-          <mxGeometry x="70" y="523" width="10" height="57" as="geometry" />
+          <mxGeometry x="70" y="380" width="10" height="57" as="geometry" />
         </mxCell>
         <mxCell id="3ojl-ZEdNO9U3Iy7Nn-c-21" value="点击动物助养管理()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3ojl-ZEdNO9U3Iy7Nn-c-1" target="3ojl-ZEdNO9U3Iy7Nn-c-4">
           <mxGeometry relative="1" as="geometry">

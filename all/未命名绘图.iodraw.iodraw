@@ -1,49 +1,49 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="1687" dy="240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="84" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2E_0phYYdOwLw5THoSdY-121" value="系统首页" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-121" value="系统首页" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="345" y="1190" width="150" height="1044" as="geometry" />
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-122" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;fontSize=18;" vertex="1" parent="2E_0phYYdOwLw5THoSdY-121">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-122" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;fontSize=18;" parent="2E_0phYYdOwLw5THoSdY-121" vertex="1">
           <mxGeometry x="70" y="107" width="10" height="832" as="geometry" />
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-123" value="流浪动物控制" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-123" value="流浪动物控制" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="545" y="1190" width="150" height="1044" as="geometry" />
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-124" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;fontSize=18;" vertex="1" parent="2E_0phYYdOwLw5THoSdY-123">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-124" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;fontSize=18;" parent="2E_0phYYdOwLw5THoSdY-123" vertex="1">
           <mxGeometry x="70" y="159" width="10" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-152" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;fontSize=18;" vertex="1" parent="2E_0phYYdOwLw5THoSdY-123">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-152" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;fontSize=18;" parent="2E_0phYYdOwLw5THoSdY-123" vertex="1">
           <mxGeometry x="70" y="340" width="10" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-125" value="动物" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-125" value="动物" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="745" y="1190" width="150" height="1044" as="geometry" />
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-126" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#999999;fontSize=18;" vertex="1" parent="2E_0phYYdOwLw5THoSdY-125">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-126" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#999999;fontSize=18;" parent="2E_0phYYdOwLw5THoSdY-125" vertex="1">
           <mxGeometry x="70" y="419" width="10" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-127" value="动物领养控制" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-127" value="动物领养控制" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="945" y="1190" width="150" height="1044" as="geometry" />
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-128" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;fontSize=18;" vertex="1" parent="2E_0phYYdOwLw5THoSdY-127">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-128" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;fontSize=18;" parent="2E_0phYYdOwLw5THoSdY-127" vertex="1">
           <mxGeometry x="70" y="731" width="10" height="188" as="geometry" />
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-129" value="动物领养界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-129" value="动物领养界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1145" y="1190" width="150" height="1044" as="geometry" />
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-130" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#999999;fontSize=18;" vertex="1" parent="2E_0phYYdOwLw5THoSdY-129">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-130" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#999999;fontSize=18;" parent="2E_0phYYdOwLw5THoSdY-129" vertex="1">
           <mxGeometry x="70" y="575" width="10" height="375" as="geometry" />
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-131" value="领养记录" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-131" value="领养记录" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1345" y="1190" width="150" height="1044" as="geometry" />
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-132" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;fontSize=18;" vertex="1" parent="2E_0phYYdOwLw5THoSdY-131">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-132" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#B3B3B3;fontSize=18;" parent="2E_0phYYdOwLw5THoSdY-131" vertex="1">
           <mxGeometry x="70" y="783" width="10" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-133" value="用户触发&quot;用户动物领养&quot;功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-150" target="2E_0phYYdOwLw5THoSdY-122">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-133" value="用户触发&quot;用户动物领养&quot;功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-150" target="2E_0phYYdOwLw5THoSdY-122" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="293" y="1297" />
@@ -51,21 +51,21 @@
             <mxPoint x="144.32352941176487" y="1297" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-134" value="请求流浪动物列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-122" target="2E_0phYYdOwLw5THoSdY-124">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-134" value="请求流浪动物列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-122" target="2E_0phYYdOwLw5THoSdY-124" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="531" y="1349" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-135" value="返回流浪动物列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-123" target="2E_0phYYdOwLw5THoSdY-122">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-135" value="返回流浪动物列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-123" target="2E_0phYYdOwLw5THoSdY-122" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="532" y="1401" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-136" value="展示流浪动物列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-122" target="2E_0phYYdOwLw5THoSdY-150">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-136" value="展示流浪动物列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-122" target="2E_0phYYdOwLw5THoSdY-150" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="294" y="1453" />
@@ -73,7 +73,7 @@
             <mxPoint x="144.32352941176487" y="1452.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-137" value="选择动物" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-150" target="2E_0phYYdOwLw5THoSdY-122">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-137" value="选择动物" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-150" target="2E_0phYYdOwLw5THoSdY-122" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="291" y="1505" />
@@ -81,48 +81,48 @@
             <mxPoint x="144.32352941176487" y="1505" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-138" value="获取动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-122" target="2E_0phYYdOwLw5THoSdY-123">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-138" value="获取动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-122" target="2E_0phYYdOwLw5THoSdY-123" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="531" y="1557" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-139" value="获取动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-123" target="2E_0phYYdOwLw5THoSdY-126">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-139" value="获取动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-123" target="2E_0phYYdOwLw5THoSdY-126" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="729" y="1609" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-140" value="返回动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-125" target="2E_0phYYdOwLw5THoSdY-123">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-140" value="返回动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-125" target="2E_0phYYdOwLw5THoSdY-123" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="730" y="1661" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-141" value="返回动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-123" target="2E_0phYYdOwLw5THoSdY-122">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-141" value="返回动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-123" target="2E_0phYYdOwLw5THoSdY-122" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="534" y="1713" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-142" value="展示动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-122" target="2E_0phYYdOwLw5THoSdY-130">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-142" value="展示动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-122" target="2E_0phYYdOwLw5THoSdY-130" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="831" y="1765" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-143" value="展示动物信息" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" target="2E_0phYYdOwLw5THoSdY-150">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-143" value="展示动物信息" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=18;" parent="1" target="2E_0phYYdOwLw5THoSdY-150" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1215" y="1830" as="sourcePoint" />
             <mxPoint x="219.32352941176487" y="1830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-144" value="点击领养" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-150" target="2E_0phYYdOwLw5THoSdY-130">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-144" value="点击领养" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-150" target="2E_0phYYdOwLw5THoSdY-130" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="691" y="1869" />
@@ -130,14 +130,14 @@
             <mxPoint x="144.32352941176487" y="1869" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-145" value="请求生成领养记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-130" target="2E_0phYYdOwLw5THoSdY-128">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-145" value="请求生成领养记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-130" target="2E_0phYYdOwLw5THoSdY-128" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1130" y="1921" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-146" value="创建领养记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-128" target="2E_0phYYdOwLw5THoSdY-132">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-146" value="创建领养记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-128" target="2E_0phYYdOwLw5THoSdY-132" edge="1">
           <mxGeometry x="0.6154" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1231" y="1973" />
@@ -145,7 +145,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-147" value="返回领养记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-131" target="2E_0phYYdOwLw5THoSdY-128">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-147" value="返回领养记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-131" target="2E_0phYYdOwLw5THoSdY-128" edge="1">
           <mxGeometry x="-0.597" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1232" y="2025" />
@@ -153,14 +153,14 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-148" value="返回领养记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-128" target="2E_0phYYdOwLw5THoSdY-130">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-148" value="返回领养记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-128" target="2E_0phYYdOwLw5THoSdY-130" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1129" y="2077" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-149" value="显示领养结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="2E_0phYYdOwLw5THoSdY-129" target="2E_0phYYdOwLw5THoSdY-150">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-149" value="显示领养结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" parent="1" source="2E_0phYYdOwLw5THoSdY-129" target="2E_0phYYdOwLw5THoSdY-150" edge="1">
           <mxGeometry x="-0.0002" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="694" y="2129" />
@@ -169,11 +169,165 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-150" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=60;" vertex="1" parent="1">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-150" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=60;" parent="1" vertex="1">
           <mxGeometry x="140" y="1194" width="40" height="1040" as="geometry" />
         </mxCell>
-        <mxCell id="2E_0phYYdOwLw5THoSdY-153" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="2E_0phYYdOwLw5THoSdY-153" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="130" y="1245" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-1" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" vertex="1" parent="1">
+          <mxGeometry x="130" y="2260" width="35" height="1148" as="geometry" />
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-2" value="系统首页" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="471" y="2260" width="150" height="1148" as="geometry" />
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-3" value="动物领养界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="671" y="2260" width="150" height="1148" as="geometry" />
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-4" value="流浪动物控制" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="899" y="2260" width="150" height="1148" as="geometry" />
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-5" value="动物领养控制" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1099" y="2260" width="150" height="1148" as="geometry" />
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-6" value="动物" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1299" y="2260" width="150" height="1148" as="geometry" />
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-7" value="领养记录" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1499" y="2260" width="150" height="1148" as="geometry" />
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-8" value="进入动物领养功能 (前置条件：已登录)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="z2Iq6vtJ2Eqblm-s0wXb-1" target="z2Iq6vtJ2Eqblm-s0wXb-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="384" y="2367" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-9" value="显示动物领养界面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="z2Iq6vtJ2Eqblm-s0wXb-2" target="z2Iq6vtJ2Eqblm-s0wXb-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="2419" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-10" value="请求流浪动物列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="z2Iq6vtJ2Eqblm-s0wXb-3" target="z2Iq6vtJ2Eqblm-s0wXb-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="869" y="2471" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-11" value="获取所有动物信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="z2Iq6vtJ2Eqblm-s0wXb-4" target="z2Iq6vtJ2Eqblm-s0wXb-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1183" y="2523" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-12" value="返回动物列表数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="z2Iq6vtJ2Eqblm-s0wXb-6" target="z2Iq6vtJ2Eqblm-s0wXb-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1186" y="2575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-13" value="返回流浪动物列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="z2Iq6vtJ2Eqblm-s0wXb-4" target="z2Iq6vtJ2Eqblm-s0wXb-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="872" y="2627" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-14" value="展示流浪动物列表 (&quot;对应基本流/备选流步骤1&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="z2Iq6vtJ2Eqblm-s0wXb-3" target="z2Iq6vtJ2Eqblm-s0wXb-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="487" y="2679" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-15" value="选择动物 (&quot;对应基本流/备选流步骤2&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="z2Iq6vtJ2Eqblm-s0wXb-1" target="z2Iq6vtJ2Eqblm-s0wXb-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="484" y="2731" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-16" value="请求动物详情 (动物ID)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="z2Iq6vtJ2Eqblm-s0wXb-3" target="z2Iq6vtJ2Eqblm-s0wXb-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="869" y="2783" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-17" value="获取动物详情 (动物ID)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="z2Iq6vtJ2Eqblm-s0wXb-4" target="z2Iq6vtJ2Eqblm-s0wXb-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1183" y="2835" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-18" value="返回动物详情数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="z2Iq6vtJ2Eqblm-s0wXb-6" target="z2Iq6vtJ2Eqblm-s0wXb-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1186" y="2887" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-19" value="返回动物详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="z2Iq6vtJ2Eqblm-s0wXb-4" target="z2Iq6vtJ2Eqblm-s0wXb-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="872" y="2939" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-20" value="展示动物详情 (&quot;对应基本流/备选流步骤3&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="z2Iq6vtJ2Eqblm-s0wXb-3" target="z2Iq6vtJ2Eqblm-s0wXb-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="487" y="2991" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-21" value="点击领养 (&quot;对应基本流/备选流步骤4&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="z2Iq6vtJ2Eqblm-s0wXb-1" target="z2Iq6vtJ2Eqblm-s0wXb-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="484" y="3043" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-22" value="提交领养申请 (用户ID, 动物ID)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="z2Iq6vtJ2Eqblm-s0wXb-3" target="z2Iq6vtJ2Eqblm-s0wXb-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="969" y="3095" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-23" value="创建新的领养记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="z2Iq6vtJ2Eqblm-s0wXb-5" target="z2Iq6vtJ2Eqblm-s0wXb-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1383" y="3147" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-24" value="记录创建成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="z2Iq6vtJ2Eqblm-s0wXb-7" target="z2Iq6vtJ2Eqblm-s0wXb-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1386" y="3199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-25" value="领养申请处理结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="z2Iq6vtJ2Eqblm-s0wXb-5" target="z2Iq6vtJ2Eqblm-s0wXb-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="972" y="3251" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Iq6vtJ2Eqblm-s0wXb-26" value="显示领养申请结果 (&quot;对应基本流/备选流步骤5完成&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="z2Iq6vtJ2Eqblm-s0wXb-3" target="z2Iq6vtJ2Eqblm-s0wXb-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="487" y="3303" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
